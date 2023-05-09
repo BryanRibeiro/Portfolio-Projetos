@@ -8,7 +8,7 @@
   
   <p align="justify" style="font-family:roboto;"> Meu nome é Bryan Ribeiro, tenho 21 anos e estou cursando o 5º semestre de Banco de dados. Sou formado no Serviço de Nacional de Aprendizagem pelo <a href="https://www.sp.senac.br/senac-sao-jose-dos-campos">Centro Universitário Senac</a>. Após a conclusão, ingressei na <a href="https://fatecsjc-prd.azurewebsites.net/">FATEC São José dos Campos - Prof. Jessen Vidal</a> no 2º Semestre de 2020.</p>
   <p align="justify" style="font-family:roboto;"> Durante a realização do curso adquiri diversos conhecimentos sobre tecnologias, metodologias, ferramentas e boas práticas de desenvolvimento. Com a Aprendizagem por Projetos Integrados, tive a oportunidade de colocar em prática os conteúdos estudados em sala de aula e elaborar soluções para problemas reais do mercado de trabalho, tendo como clientes empresas reais parceiras da faculdade. </p>
-  <p align="justify" style="font-family:roboto;"> Atualmente sou Analista Júnior na <a href="https://www.cebrace.com.br/">Cebrace</a>, utilizando tecnologias como SAP ERP, Qlikview, Power BI, agregando valor ao negócio através de oportunidades e melhorias contínuas.</p>
+  <p align="justify" style="font-family:roboto;"> Atualmente sou Analista Júnior na <a href="https://www.cebrace.com.br/">Cebrace</a>, utilizando tecnologias como SAP ERP, Qlikview, Power BI, Sales Force, agregando valor ao negócio através de oportunidades e melhorias contínuas.</p>
   
   <table align="center">
    <tr>
@@ -50,12 +50,12 @@
 
  <h2 align="center"> Meus Projetos :books:</h2>
  
-   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/BryanRibeiro/Bertoti/blob/main/Metodologia%20Pesquisa%20Cient%C3%ADfica/README.md"> 1º Semestre: </a></li></p>
-   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/BryanRibeiro/Bertoti/blob/main/Metodologia%20Pesquisa%20Cient%C3%ADfica/README.md"> 2º Semestre: </a></li></p>
-   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/BryanRibeiro/Bertoti/blob/main/Metodologia%20Pesquisa%20Cient%C3%ADfica/README.md"> 3° Semestre:</a></li></p>
-   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/BryanRibeiro/Bertoti/blob/main/Metodologia%20Pesquisa%20Cient%C3%ADfica/README.md"> 4° Semestre: </a></li></p>
-   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/BryanRibeiro/Bertoti/blob/main/Metodologia%20Pesquisa%20Cient%C3%ADfica/README.md"> 5º Semestre: </a></li></p>
-   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/BryanRibeiro/Bertoti/blob/main/Metodologia%20Pesquisa%20Cient%C3%ADfica/README.md"> 6º Semestre: </a></li></p>
+   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/BryanRibeiro/Bertoti/blob/main/Metodologia%20Pesquisa%20Cient%C3%ADfica/README.md"> 1º Semestre: SOS EDUCA - Site de Vendas de Materiais Didáticos</a></li></p>
+   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/BryanRibeiro/Bertoti/blob/main/Metodologia%20Pesquisa%20Cient%C3%ADfica/README.md">2º Semestre: GSW Soluções Integradas - Dashboard para acompanhamentos dos projetos, através de diferentes fontes de dados.</a></li></p>
+   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/BryanRibeiro/Bertoti/blob/main/Metodologia%20Pesquisa%20Cient%C3%ADfica/README.md">3° Semestre: PromoAll - Ecommerce com um motor de regras para promoções aplicadas no momento da compra.</a></li></p>
+   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/BryanRibeiro/Bertoti/blob/main/Metodologia%20Pesquisa%20Cient%C3%ADfica/README.md">4° Semestre: Subiter - Aplicação Web para sincronização dos dados administrativos, financeiros e operacionais.</a></li></p>
+   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/BryanRibeiro/Bertoti/blob/main/Metodologia%20Pesquisa%20Cient%C3%ADfica/README.md">5º Semestre: MidAll - Transferência automática de arquivos entre nuvens e análise dos metadados.</a></li></p>
+   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/BryanRibeiro/Bertoti/blob/main/Metodologia%20Pesquisa%20Cient%C3%ADfica/README.md"> 6º Semestre: Em Construção 🏗️</a></li></p>
 
 </body>
 </html>
