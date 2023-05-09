@@ -50,12 +50,12 @@
 
  <h2 align="center"> Meus Projetos :books:</h2>
  
-   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/BryanRibeiro/Bertoti/blob/main/Metodologia%20Pesquisa%20Cient%C3%ADfica/README.md"> 1º Semestre: SOS EDUCA - Site de Vendas de Materiais Didáticos</a></li></p>
-   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/BryanRibeiro/Bertoti/blob/main/Metodologia%20Pesquisa%20Cient%C3%ADfica/README.md">2º Semestre: GSW Soluções Integradas - Dashboard para acompanhamentos dos projetos, através de diferentes fontes de dados.</a></li></p>
-   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/BryanRibeiro/Bertoti/blob/main/Metodologia%20Pesquisa%20Cient%C3%ADfica/README.md">3° Semestre: PromoAll - Ecommerce com um motor de regras para promoções aplicadas no momento da compra.</a></li></p>
-   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/BryanRibeiro/Bertoti/blob/main/Metodologia%20Pesquisa%20Cient%C3%ADfica/README.md">4° Semestre: Subiter - Aplicação Web para sincronização dos dados administrativos, financeiros e operacionais.</a></li></p>
-   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/BryanRibeiro/Bertoti/blob/main/Metodologia%20Pesquisa%20Cient%C3%ADfica/README.md">5º Semestre: MidAll - Transferência automática de arquivos entre nuvens e análise dos metadados.</a></li></p>
-   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/BryanRibeiro/Bertoti/blob/main/Metodologia%20Pesquisa%20Cient%C3%ADfica/README.md"> 6º Semestre: Em Construção 🏗️</a></li></p>
+   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/BryanRibeiro/Portfolio-Projetos/blob/main/API_1.md"> 1º Semestre: SOS EDUCA - Site de Vendas de Materiais Didáticos</a></li></p>
+   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/BryanRibeiro/Portfolio-Projetos/blob/main/API_2.md">2º Semestre: GSW Soluções Integradas - Dashboard para acompanhamentos dos projetos, através de diferentes fontes de dados.</a></li></p>
+   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/BryanRibeiro/Portfolio-Projetos/blob/main/API_3.md">3° Semestre: PromoAll - Ecommerce com um motor de regras para promoções aplicadas no momento da compra.</a></li></p>
+   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/BryanRibeiro/Portfolio-Projetos/blob/main/API_4.md">4° Semestre: Subiter - Aplicação Web para sincronização dos dados administrativos, financeiros e operacionais.</a></li></p>
+   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/BryanRibeiro/Portfolio-Projetos/blob/main/API_5.md">5º Semestre: MidAll - Transferência automática de arquivos entre nuvens e análise dos metadados.</a></li></p>
+   <p align="justify" style="font-family:roboto;"><li><a href=""> 6º Semestre: Em Construção 🏗️</a></li></p>
 
 </body>
 </html>
