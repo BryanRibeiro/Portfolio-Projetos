@@ -39,6 +39,21 @@
   </ul>
   
   <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
+  
+  <h3> Atribuições como Desenvolvedor Back-end</h3>
+  <p align="justify" style="font-family:roboto;"> Como Desenvolvedor Back-End, as atribuições foram relacionadas com a elaboração da lógica do sistema planejado, tendo em vista as regras de negócio proporcionadas pela problemática. Criando os métodos que serão chamados pelo Front-End, obtendo uma solução completa com todas as funcionalidades necessárias. Como demonstrado no tópico de Tecnologias Adotadas, foi utilizado Java para o desenvolvimento Back-End, nesse quesito participei dos seguintes processos: </p>
+  
+  <ul>
+    <li>Criação e configuração do ambiente no Android Studio;</li> 
+    <li>Método para reconhecimento de comandos por voz;</li> 
+    <li>Consumir API https para funcionalidade de recomendação de filmes;</li>
+    <li>Funcionalidade de realizar chamadas de emergência; </li>
+    <li>Funcionalidade de pesquisas na web. </li>
+  </ul>
+  
+  <h2 style="font-family:roboto;"> Funcionamento :bulb:</h2>
+
+  <h1 align="center"> <img src = "https://github.com/Grupo-1-2020-PI-FATEC-ADS/SOS-EDUCA/blob/master/Imagens%20Geral/videosprint3.gif"/></h1>
  
   <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
   <h3 align="center"> Hard Skills </h3>
