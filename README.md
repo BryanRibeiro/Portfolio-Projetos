@@ -26,7 +26,7 @@
   <li>Linguagens de programação:
   <ul>
     <li><code>Java</code> na criação de API's (Application Programming Interface) Rest utilizando o Framework <code>SpringBoot</code>;</li>
-    <li><code>Python</code> para automação de processos e manipulação de documentos no Banco de Dados NoSQL <code>MongoDB</code>;</li>
+    <li><code>Python</code> para automação de processos e manipulação de documentos no Banco de Dados MySQL;</li>
     <li><code>SQL</code> para modelagem, criação e manipulação de Banco de Dados <code>Oracle</code>, <code>MySQL</code> e <code>SQL Server</code>.</li>
     </ul></li>
   <br>
