@@ -7,7 +7,9 @@
   
   <h2 style="font-family:roboto;"> Resumo do Projeto :clipboard:</h2>
   
-  <p align="justify" style="font-family:roboto;"> O objetivo desse projeto é criar um site E-Commerce de materiais didáticos, com foco em ajudar professores e alunos em seus estudos, disponibilizando o melhor conteúdo didático a um clique de distância.
+  <p align="justify" style="font-family:roboto;"> O projeto consiste na criação de um site de comércio eletrônico (E-commerce) voltado para materiais didáticos. O objetivo principal foi facilitar o acesso e fornecer recursos de qualidade para professores e alunos, com o intuito de apoiar seus estudos e aprimorar o processo de aprendizagem. O site oferece uma ampla variedade de materiais didáticos, abrangendo diversas disciplinas e níveis educacionais. Isso inclui livros, apostilas, e-books, vídeos educativos, planos de aula, jogos educativos, entre outros recursos relevantes para auxiliar tanto os educadores quanto os estudantes.
+Uma das principais características do site foi a facilidade de navegação e busca, permitindo que os usuários encontrem rapidamente o conteúdo desejado. Além disso, fornecer recursos de filtragem e classificação, permitindo que os usuários refinem suas pesquisas com base em critérios específicos, como disciplina, nível de ensino, autor, editora, entre outros.
+   
   <p align="justify" style="font-family:roboto;"> As funcionalidades desenvolvidas no site foram: 
  </p>
   <ul>
@@ -26,11 +28,17 @@
  <h2 style="font-family:roboto;"> Tecnologias Adotadas :computer:</h2>
    
   <ul>
-  <li><a href="https://www.java.com/pt_BR/">Java</a>:
-  <p align="justify" style="font-family:roboto;"> Linguagem de programação utilizada para o desenvolvimento Back-End do sistema, apresenta como principais características: Portabilidade, Robustez, Segurança, Orientação a Objetos, Dinâmica e Alto Desempenho.</p></li>
+  <li><a href="https://html.spec.whatwg.org/multipage/">HTML</a>:
+  <p align="justify" style="font-family:roboto;"> HTML é uma linguagem de marcação utilizada para estruturar e organizar o conteúdo das páginas da web. Com suas tags e elementos, permite a criação de textos, imagens, links e formulários, fornecendo a base fundamental para a construção de sites. É complementado por outras tecnologias como CSS e JavaScript para estilização e interatividade.</p></li>
   </li>
-   <li><a href="https://developer.android.com/studio">Android Studio</a>:
-    <p align="justify" style="font-family:roboto;"> Ambiente de desenvolvimento integrado para elaboração de aplicações Android nativas. Tendo o Java como linguagem back-end e XML para front-end. Foi aplicado para o desenvolvimento do app.</p></li>
+   <li><a href="https://www.w3.org/Style/CSS/Overview.en.html">CSS</a>:
+    <p align="justify" style="font-family:roboto;"> CSS é uma linguagem de estilo utilizada para definir a apresentação e o layout visual das páginas da web.</p></li>
+  </li>
+   <li><a href="https://www.php.net/">PHP</a>:
+    <p align="justify" style="font-family:roboto;"> PHP é uma linguagem de programação server-side amplamente utilizada para desenvolvimento web. Com sua sintaxe simples e poderosa, permite a criação de sites dinâmicos, interativos e conectados a bancos de dados, possibilitando a construção de aplicativos web robustos.</p></li>
+  </li>
+   <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">JavaScript</a>:
+    <p align="justify" style="font-family:roboto;"> JavaScript é uma linguagem de programação versátil e poderosa, utilizada para adicionar interatividade, funcionalidades dinâmicas e comportamentos aos sites.</p></li>
   </li>
   <li><a href="https://trello.com/https://trello.com">Trello</a>:
   <p align="justify" style="font-family:roboto;"> Foi utilizado como ferramenta do método Scrum para distribuição das atividades do grupo e priorização das demandas. Possibilitando realizar o planejamento das sprints, sendo capaz de registrar o progresso da equipe e do projeto, facilitando o desenvolvimento e acompanhamento da realização de tarefas. </p></li>
