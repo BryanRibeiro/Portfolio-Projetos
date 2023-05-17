@@ -28,20 +28,15 @@ Uma das principais características do site foi a facilidade de navegação e bu
  <h2 style="font-family:roboto;"> Tecnologias Adotadas :computer:</h2>
    
   <ul>
-  <li><a href="https://html.spec.whatwg.org/multipage/">HTML</a>:
-  <p align="justify" style="font-family:roboto;"> HTML é uma linguagem de marcação utilizada para estruturar e organizar o conteúdo das páginas da web. Com suas tags e elementos, permite a criação de textos, imagens, links e formulários, fornecendo a base fundamental para a construção de sites. É complementado por outras tecnologias como CSS e JavaScript para estilização e interatividade.</p></li>
+  <li><a href="https://html.spec.whatwg.org/multipage/">HTML</a>: É uma linguagem de marcação utilizada para estruturar e organizar o conteúdo das páginas da web. Com suas tags e elementos, permite a criação de textos, imagens, links e formulários, fornecendo a base fundamental para a construção de sites. É complementado por outras tecnologias como CSS e JavaScript para estilização e interatividade.</p></li>
   </li>
-   <li><a href="https://www.w3.org/Style/CSS/Overview.en.html">CSS</a>:
-    <p align="justify" style="font-family:roboto;"> CSS é uma linguagem de estilo utilizada para definir a apresentação e o layout visual das páginas da web.</p></li>
+   <li><a href="https://www.w3.org/Style/CSS/Overview.en.html">CSS</a>: CSS é uma linguagem de estilo utilizada para definir a apresentação e o layout visual das páginas da web.</p></li>
   </li>
-   <li><a href="https://www.php.net/">PHP</a>:
-    <p align="justify" style="font-family:roboto;"> PHP é uma linguagem de programação server-side amplamente utilizada para desenvolvimento web. Com sua sintaxe simples e poderosa, permite a criação de sites dinâmicos, interativos e conectados a bancos de dados, possibilitando a construção de aplicativos web robustos.</p></li>
+   <li><a href="https://www.php.net/">PHP</a>: É uma linguagem de programação server-side amplamente utilizada para desenvolvimento web. Com sua sintaxe simples e poderosa, permite a criação de sites dinâmicos, interativos e conectados a bancos de dados, possibilitando a construção de aplicativos web robustos.</p></li>
   </li>
-   <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">JavaScript</a>:
-    <p align="justify" style="font-family:roboto;"> JavaScript é uma linguagem de programação versátil e poderosa, utilizada para adicionar interatividade, funcionalidades dinâmicas e comportamentos aos sites.</p></li>
+   <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">JavaScript</a>: É uma linguagem de programação versátil e poderosa, utilizada para adicionar interatividade, funcionalidades dinâmicas e comportamentos aos sites.</p></li>
   </li>
-  <li><a href="https://trello.com/https://trello.com">Trello</a>:
-  <p align="justify" style="font-family:roboto;"> Foi utilizado como ferramenta do método Scrum para distribuição das atividades do grupo e priorização das demandas. Possibilitando realizar o planejamento das sprints, sendo capaz de registrar o progresso da equipe e do projeto, facilitando o desenvolvimento e acompanhamento da realização de tarefas. </p></li>
+  <li><a href="https://trello.com/https://trello.com">Trello</a>: Foi utilizado como ferramenta do método Scrum para distribuição das atividades do grupo e priorização das demandas. Possibilitando realizar o planejamento das sprints, sendo capaz de registrar o progresso da equipe e do projeto, facilitando o desenvolvimento e acompanhamento da realização de tarefas. </p></li>
   </li>
 
   </ul>
