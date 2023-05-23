@@ -55,15 +55,109 @@ Uma das principais características do site foi a facilidade de navegação e bu
   <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
   
   <h3> Atribuições como Desenvolvedor Front-end</h3>
-  <p align="justify" style="font-family:roboto;"> Como Desenvolvedor Front-End, as atribuições foram relacionadas com a elaboração da lógica do sistema planejado, tendo em vista as regras de negócio proporcionadas pela problemática. Criando os métodos que serão chamados pelo Front-End, obtendo uma solução completa com todas as funcionalidades necessárias. Como demonstrado no tópico de Tecnologias Adotadas, foi utilizado Java para o desenvolvimento Back-End, nesse quesito participei dos seguintes processos: </p>
+  <p align="justify" style="font-family:roboto;"> Como desenvolvedor front-end nesse projeto, minhas atribuições foram as seguintes:
+
+**Design responsivo:** Eu fui responsável por criar um layout responsivo que se adaptasse a diferentes dispositivos e tamanhos de tela. Isso permitiu que os usuários acessassem o site de qualquer dispositivo, como computadores, tablets e smartphones, proporcionando uma experiência consistente e agradável.
+
+<details>
+	
+<summary>Código PHP - Exemplo</summary>
+ 
+```php
+ 
+$conn = mysqli_connect("localhost", "usuario", "senha", "banco_de_dados");
+
+$query = "SELECT * FROM produtos";
+$result = mysqli_query($conn, $query);
+
+while ($row = mysqli_fetch_assoc($result)) {
   
-  <ul>
-    <li>Criação e configuração do ambiente no Android Studio;</li> 
-    <li>Método para reconhecimento de comandos por voz;</li> 
-    <li>Consumir API https para funcionalidade de recomendação de filmes;</li>
-    <li>Funcionalidade de realizar chamadas de emergência; </li>
-    <li>Funcionalidade de pesquisas na web. </li>
-  </ul>
+ // Informações do produto
+  echo "<div class='product'>";
+  echo "<h3>" . $row['titulo'] . "</h3>";
+  echo "<p>" . $row['descricao'] . "</p>";
+  echo "</div>";
+}
+
+mysqli_close($conn);
+?>
+ 
+```
+ 
+O código acima é um exemplo simples do que fizemos utilizando o PHP para exibir os produtos do site. Ele realiza uma consulta ao banco de dados e exibe as informações dos produtos em um loop.
+ 
+</details> 
+ 
+**Implementação da interface de usuário:** Ajudei a traduzir os designs de interface fornecidos pela equipe de design em código HTML, CSS e JavaScript. Isso envolveu a criação de páginas web interativas e funcionais, incluindo a exibição de produtos, páginas de detalhes do produto, carrinho de compras e formulários de pagamento.
+ 
+<details>
+	
+<summary>Código HTML - Exemplo</summary>
+ 
+```html
+ 
+// Exemplo de integração com a API de pagamento
+function fazerPagamento(total, dadosPagamento) {
+  // Chamada para a API de pagamento
+  fetch('https://api.paymentprovider.com/payment', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+    },
+    body: JSON.stringify(dadosPagamento),
+  })
+    .then(response => response.json())
+    .then(data => {
+      // Processar a resposta da API de pagamento
+      if (data.status === 'success') {
+        // Pagamento realizado com sucesso
+        // Executar ações adicionais, como atualizar o status do pedido, exibir uma mensagem de sucesso, etc.
+      } else {
+        // O pagamento falhou
+        // Lidar com o erro, exibir uma mensagem de erro, etc.
+      }
+    })
+    .catch(error => {
+      // Ocorreu um erro na chamada para a API de pagamento
+      // Lidar com o erro, exibir uma mensagem de erro, etc.
+    });
+}
+
+// Exemplo de integração com a API de entrega
+function realizarEntrega(endereco, dadosEntrega) {
+  // Chamada para a API de entrega
+  fetch('https://api.deliveryprovider.com/delivery', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+    },
+    body: JSON.stringify(dadosEntrega),
+  })
+    .then(response => response.json())
+    .then(data => {
+      // Processar a resposta da API de entrega
+      if (data.status === 'success') {
+        // Entrega realizada com sucesso
+        // Executar ações adicionais, como atualizar o status do pedido, exibir uma mensagem de sucesso, etc.
+      } else {
+        // A entrega falhou
+        // Lidar com o erro, exibir uma mensagem de erro, etc.
+      }
+    })
+    .catch(error => {
+
+    });
+}
+ 
+```
+ 
+</details> 
+
+**Integração com APIs:** Trabalhei na integração do front-end com as APIs fornecidas pelos serviços externos, como sistemas de pagamento, serviços de entrega e gerenciamento de estoque. Isso permitiu que os usuários realizassem transações de compra de forma segura e eficiente, além de receberem atualizações sobre o status dos pedidos.
+
+**Otimização de desempenho:** Otimizei o desempenho do site, garantindo que as páginas carregassem rapidamente e que o código fosse eficiente. Isso incluiu a minificação e concatenação de arquivos CSS e JavaScript, otimização de imagens e implementação de técnicas de cache.
+</p>
+  
   
   <h2 style="font-family:roboto;"> Funcionamento :bulb:</h2>
 
