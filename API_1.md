@@ -4,6 +4,8 @@
 <a href="https://github.com/Grupo-1-2020-PI-FATEC-ADS/SOS-EDUCA"><img src="https://img.shields.io/badge/GitHub-Repositório Projeto-181717?style=for-the-badge&logo=github"></a>
  
  <h2> Parceiro Acadêmico: <a href="https://fatecsjc-prd.azurewebsites.net/">FATEC São José dos Campos - Prof. Jessen Vidal</a></h2>
+ 
+<img src="https://github.com/BryanRibeiro/Portfolio-Projetos/blob/main/images/fatecsjc_400x192.png" height="100" width="230"/>
   
   <h2 style="font-family:roboto;"> Resumo do Projeto :clipboard:</h2>
   
@@ -26,7 +28,16 @@ Uma das principais características do site foi a facilidade de navegação e bu
  </p>
  
  <h2 style="font-family:roboto;"> Tecnologias Adotadas :computer:</h2>
-   
+ 
+ <div style="display: inline_block"><br> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg" width="100"    height="100" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg" width="100" height="100" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-plain.svg" width="100" height="100" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/trello/trello-plain-wordmark.svg" width="100" height="100" />
+</div>
+ 
+<br>
+ 
   <ul>
   <li><a href="https://html.spec.whatwg.org/multipage/">HTML</a>: É uma linguagem de marcação utilizada para estruturar e organizar o conteúdo das páginas da web. Com suas tags e elementos, permite a criação de textos, imagens, links e formulários, fornecendo a base fundamental para a construção de sites. É complementado por outras tecnologias como CSS e JavaScript para estilização e interatividade.</p></li>
   </li>
@@ -43,8 +54,8 @@ Uma das principais características do site foi a facilidade de navegação e bu
   
   <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
   
-  <h3> Atribuições como Desenvolvedor Back-end</h3>
-  <p align="justify" style="font-family:roboto;"> Como Desenvolvedor Back-End, as atribuições foram relacionadas com a elaboração da lógica do sistema planejado, tendo em vista as regras de negócio proporcionadas pela problemática. Criando os métodos que serão chamados pelo Front-End, obtendo uma solução completa com todas as funcionalidades necessárias. Como demonstrado no tópico de Tecnologias Adotadas, foi utilizado Java para o desenvolvimento Back-End, nesse quesito participei dos seguintes processos: </p>
+  <h3> Atribuições como Desenvolvedor Front-end</h3>
+  <p align="justify" style="font-family:roboto;"> Como Desenvolvedor Front-End, as atribuições foram relacionadas com a elaboração da lógica do sistema planejado, tendo em vista as regras de negócio proporcionadas pela problemática. Criando os métodos que serão chamados pelo Front-End, obtendo uma solução completa com todas as funcionalidades necessárias. Como demonstrado no tópico de Tecnologias Adotadas, foi utilizado Java para o desenvolvimento Back-End, nesse quesito participei dos seguintes processos: </p>
   
   <ul>
     <li>Criação e configuração do ambiente no Android Studio;</li> 
