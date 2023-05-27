@@ -57,108 +57,76 @@ Uma das principais características do site foi a facilidade de navegação e bu
   
   <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
   
-  <h3> Atribuições como Desenvolvedor Front-end</h3>
-  <p align="justify" style="font-family:roboto;"> Como desenvolvedor front-end nesse projeto, minhas atribuições foram as seguintes:
+  <h3> Atribuições como Desenvolvedor Back-end e Front-end</h3>
+  <p align="justify" style="font-family:roboto;"> Como desenvolvedor nesse projeto, minhas atribuições foram essenciais para a implementação das interfaces do usuário e para garantir uma experiência de usuário fluida e amigável.
 
-**Design responsivo:** Eu fui responsável por criar um layout responsivo que se adaptasse a diferentes dispositivos e tamanhos de tela. Isso permitiu que os usuários acessassem o site de qualquer dispositivo, como computadores, tablets e smartphones, proporcionando uma experiência consistente e agradável.
+Minha contribuição utilizando PHP permitiu a implementação da funcionalidade de autenticação de usuários, a persistência de dados por meio de variáveis de sessão e o reaproveitamento de código com a inclusão de arquivos PHP. Essas contribuições foram essenciais para o bom funcionamento e segurança do sistema de login do cliente no projeto.
 
 <details>
 	
-<summary>Código PHP - Exemplo</summary>
+<summary>Manipulação dos dados de Formulário de Login</summary>
  
+> Inicialização de sessão: Com a linha "?php session_start(); ?", iniciei uma sessão PHP. Isso permite que armazene e acesse variáveis de sessão, que podem ser usadas para manter dados específicos do usuário entre as requisições.
+	
+> Inclusão de arquivos: Utilizei a função include() para incluir arquivos PHP no código. Com "?php include('cabecalho.php');?", coloquei o conteúdo do arquivo "cabecalho.php" no local onde essa linha está presente. Da mesma forma, "?php include('navbar.php');?" o conteúdo do arquivo "navbar.php", e "?php include('rodape.php');?" o conteúdo do arquivo "rodape.php".
+	
 ```php
  
-$conn = mysqli_connect("localhost", "usuario", "senha", "banco_de_dados");
-
-$query = "SELECT * FROM produtos";
-$result = mysqli_query($conn, $query);
-
-while ($row = mysqli_fetch_assoc($result)) {
-  
- // Informações do produto
-  echo "<div class='product'>";
-  echo "<h3>" . $row['titulo'] . "</h3>";
-  echo "<p>" . $row['descricao'] . "</p>";
-  echo "</div>";
-}
-
-mysqli_close($conn);
-?>
+<?php session_start(); ?>
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <?php include('cabecalho.php');?>
+	<title>Login do cliente</title>
+</head>
+<body>
+  <?php include('navbar.php');?>
+  <?php (include("progresso.php"))(1);?>
  
+  <div class="container">
+	<!-- Main Content -->
+	<div class="container-fluid">
+		<div class="row main-content bg-success text-center">
+			<div class="col-md-4 text-center company__info">
+				<span class="company__logo"><h2><img src="images/sos.gif" alt="" width="120px" height="120px"></span></h2></img>
+			</div>
+			<div class="col-md-8 col-xs-12 col-sm-12 login_form ">
+				<div class="container-fluid">
+					<div class="row">
+						<h2>Log In</h2>
+					</div>
+					<div class="row">
+						<form control="" class="form-group" action="autenticando_clientes.php" method="POST">
+							<div class="row">
+								<input type="text" id="username" class="form__input" name="usuario" value="<?php echo @$_SESSION['usuario']?>"  placeholder="Digite seu Email">
+							</div>
+							<div class="row">
+								<!-- <span class="fa fa-lock"></span> -->
+								<input type="password" id="password" class="form__input" name="senha" <?= @$_SESSION['senha'] ? 'autofocus' : '' ?>  maxlength="8" placeholder="Digite sua senha">
+							</div>
+							<div class="row">
+								<input type="submit" value="Login" class="btn2">
+							</div>
+						</form>
+					</div>
+				</div>
+			</div>
+		</div>
+  </div>
+</div>
+</body>
+  <?php include('rodape.php');?> 
+</body>
+</html>
+
 ```
- 
-O código acima é um exemplo simples do que fizemos utilizando o PHP para exibir os produtos do site. Ele realiza uma consulta ao banco de dados e exibe as informações dos produtos em um loop.
- 
-</details> 
- 
-**Implementação da interface de usuário:** Ajudei a traduzir os designs de interface fornecidos pela equipe de design em código HTML, CSS e JavaScript. Isso envolveu a criação de páginas web interativas e funcionais, incluindo a exibição de produtos, páginas de detalhes do produto, carrinho de compras e formulários de pagamento.
- 
-<details>
-	
-<summary>Código HTML - Exemplo</summary>
- 
-```html
- 
-// Exemplo de integração com a API de pagamento
-function fazerPagamento(total, dadosPagamento) {
-  // Chamada para a API de pagamento
-  fetch('https://api.paymentprovider.com/payment', {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json',
-    },
-    body: JSON.stringify(dadosPagamento),
-  })
-    .then(response => response.json())
-    .then(data => {
-      // Processar a resposta da API de pagamento
-      if (data.status === 'success') {
-        // Pagamento realizado com sucesso
-        // Executar ações adicionais, como atualizar o status do pedido, exibir uma mensagem de sucesso, etc.
-      } else {
-        // O pagamento falhou
-        // Lidar com o erro, exibir uma mensagem de erro, etc.
-      }
-    })
-    .catch(error => {
-      // Ocorreu um erro na chamada para a API de pagamento
-      // Lidar com o erro, exibir uma mensagem de erro, etc.
-    });
-}
 
-// Exemplo de integração com a API de entrega
-function realizarEntrega(endereco, dadosEntrega) {
-  // Chamada para a API de entrega
-  fetch('https://api.deliveryprovider.com/delivery', {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json',
-    },
-    body: JSON.stringify(dadosEntrega),
-  })
-    .then(response => response.json())
-    .then(data => {
-      // Processar a resposta da API de entrega
-      if (data.status === 'success') {
-        // Entrega realizada com sucesso
-        // Executar ações adicionais, como atualizar o status do pedido, exibir uma mensagem de sucesso, etc.
-      } else {
-        // A entrega falhou
-        // Lidar com o erro, exibir uma mensagem de erro, etc.
-      }
-    })
-    .catch(error => {
-
-    });
-}
+> Manipulação de dados de formulário: Utilizei o PHP para manipular os dados submetidos no formulário de login. O formulário é enviado para o arquivo "autenticando_clientes.php" através do atributo action no elemento "form".
  
-```
+</details>  
  
-</details> 
-
-**Integração com APIs:** Trabalhei na integração do front-end com as APIs fornecidas pelos serviços externos, como sistemas de pagamento, serviços de entrega e gerenciamento de estoque. Isso permitiu que os usuários realizassem transações de compra de forma segura e eficiente, além de receberem atualizações sobre o status dos pedidos.
-
-**Otimização de desempenho:** Otimizei o desempenho do site, garantindo que as páginas carregassem rapidamente e que o código fosse eficiente. Isso incluiu a minificação e concatenação de arquivos CSS e JavaScript, otimização de imagens e implementação de técnicas de cache.
 </p>
   
   
