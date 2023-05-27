@@ -1,42 +1,15 @@
-# Bryan Romero Ribeiro
-
-## Introdução
-
-Seja bem-vindo! Sou o Bryan Ribeiro, estudante de Banco de Dados na FATEC São José dos Campos - Prof. Jessen Vidal e estas são minhas experiências. Jovem protagonista, com muita vontade de aprender e contribuir com meu potencial para as empresas, orientado por valores, gosto de fazer acontecer, resolver problemas e trazer mudanças significativas para o mundo.
-
-Tenho 20 anos e trabalho como Estagiário na Cebrace em Jacareí.
-
-<img src="https://avatars.githubusercontent.com/u/70216549?v=4" height="300" width="250"/>
-
-##### *Figura 00. Eu*
-
-## Principais Conhecimentos
-
- - [x]  Python
- - [x]  Java
- - [x]  HTML
- - [x]  PHP
- - [x]  CSS
- - [x]  PostgreSQL
- - [x]  MySQL
- - [x]  Angular
-
-#### Projetos Integradores durante a graduação 
-Durante a minha gradução, trabalhei no desenvolvimento de trabalhos chamados de API "Aprendizagem por Processos Integrados". Um projeto integrador tem o objetivo de solucionar um problema do mundo real, utilizando os conhecimentos adquiridos durante a graduação.<br/>
-Abaixo todos estes projetos serão descritos, detalhando o problema, solução proposta, e os aprendizamos extraídos de cada um deles. 
-
-# Projeto 3: 1º semestre de 2022
-
-### Parceiro Acadêmico
-MidAll <br/>
-![image](https://camo.githubusercontent.com/b0fa931b76def22c567acfdba8089ec65869a80bb99b201408c4efb3c486849c/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f3435366439355f64386266646362343934326234366336393935306539363136373432646634657e6d76322e706e672f76312f66696c6c2f775f3331322c685f3234382c616c5f632c715f38352c75736d5f302e36365f312e30305f302e30312c656e635f6175746f2f4c6f676f2532304d6964416c6c2e706e67)
-##### *Figura 01. Logo MidAll Fonte(www.midall.com.br)*
-
-A empresa MidAll situada no Parque Tecnológico de São José dos Campos, propôs o seguinte desafio baseado na metodologia ágil Scrum.
-
-### Visão do Projeto
-
-A empresa parceira MidAll tem um problema para criação de promoções em um Ecommerce. Precisamos de uma solução inteligente
+<html>
+<body>
+ <h1 align="center"> API 3º Semestre - 01/2022</h1>
+<a href="https://github.com/Doc-Docker/APIMidAll"><img src="https://img.shields.io/badge/GitHub-Repositório Projeto-181717?style=for-the-badge&logo=github"></a>
+ 
+ <h2> Parceiro Acadêmico: <a href="https://midall.com.br/">MidAll [B]</a></h2>
+ 
+<img src="https://github.com/BryanRibeiro/Portfolio-Projetos/blob/main/images/logo%20midall.png" height="150" width="230"/>
+  
+  <h2 style="font-family:roboto;"> Resumo do Projeto :clipboard:</h2>
+  
+  <p align="justify" style="font-family:roboto;"> A empresa parceira MidAll tem um problema para criação de promoções em um Ecommerce. Precisamos de uma solução inteligente
 onde, as mecânicas das promoções sejam feitas de forma flexível e de rápida atualização no sistema. A ideia foi criar um mini motor de regras com uma interface onde as regras das promoções possam ser cadastradas e aplicadas no momento que os itens forem para o carrinho de compras.
 
 **O problema é:** O cliente tem um e-commerce, porém necessita de um sistema de compras inteligente que gere promoções com base nas vendas;
@@ -47,46 +20,43 @@ onde, as mecânicas das promoções sejam feitas de forma flexível e de rápida
 
 **A solução seria** O desenvolvimento de uma aplicação web que irá automatizar este processo no ato da compra, gerando promoções específicas.
 
-Link do repositório do projeto: https://github.com/Doc-Docker/APIMidAll
+<h2 style="font-family:roboto;"> Tecnologias Adotadas :computer:</h2>
+ 
+ <div style="display: inline_block"><br> 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="100"    height="100" />	 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg" width="100"    height="100" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg" width="100" height="100" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg" width="100" height="100" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original-wordmark.svg" width="100" height="100" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" width="100" height="100" />
+</div>
+ 
+<br>
+ 
+  <ul>
+  <li><a href="https://azure.microsoft.com/">Microsoft SQL Server</a>: O Microsoft SQL Server é um sistema de gerenciamento de banco de dados relacional desenvolvido pela Microsoft, amplamente utilizado para armazenar, manipular e recuperar dados de forma eficiente e segura.</p></li>
+  </li>	  
+  <li><a href="https://www.java.com/pt-BR/">Java</a>: Java é uma linguagem de programação de alto nível, multiplataforma e orientada a objetos, conhecida por sua portabilidade e segurança, amplamente usada no desenvolvimento de aplicativos e sistemas corporativos.</p></li>
+  </li>
+   <li><a href="https://angular.io/">Angular</a>: É um framework de desenvolvimento de aplicativos web de código aberto, baseado em TypeScript, que permite a criação de interfaces de usuário dinâmicas e escaláveis, utilizando conceitos como componentes e injeção de dependência.</p></li>
+  </li>
+   <li><a href="https://www.w3.org/Style/CSS/Overview.en.html">CSS</a>: CSS é uma linguagem de estilo utilizada para definir a apresentação e o layout visual das páginas da web.</p></li>
+  </li>
+   <li><a href="https://getbootstrap.com/">Bootstrap</a>: Bootstrap é um framework front-end de código aberto que facilita o desenvolvimento de interfaces responsivas e estilizadas, fornecendo um conjunto de estilos predefinidos e componentes reutilizáveis, agilizando o processo de criação de páginas web modernas e atraentes.</p></li>
+  </li>
+  <li><a href="https://www.figma.com/">Figma</a>: Figma é uma ferramenta de design colaborativo baseada na nuvem, que permite criar interfaces de usuário, protótipos interativos e compartilhar facilmente os designs com equipes de trabalho, agilizando o processo de design e feedback em projetos de design de produtos e interfaces digitais.</p></li>
+  </li>
 
-### Tecnologias adotadas na solução
-
-* **Banco de Dados:** PostgreSQL
-* **Back-end:** Java e Spring Boot
-* **Front-end:** Angular, CSS, Bootstrap
-* **Ferramentas:** IntelliJ IDEA, Visual Studio Code, GitHub e Figma
-
-<h4 align="center"> 
- <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img src = "https://camo.githubusercontent.com/e8ba07fa7cc79831afca90c574b74f1eefd0bf76af4e498cb0674330a1634e2a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353532d3233393132303f267374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465"/></a>
- <a href="https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/HTML5"><img src = "https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"/></a>
- <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img src = "https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/></a>
- <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/></a>
- <a href="https://www.jetbrains.com/idea/"><img src =
-"https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" /></a>
- <a href="https://getbootstrap.com/"><img src =
-"https://camo.githubusercontent.com/b13ed67c809178963ce9d538175b02649800772be1ce0cb02da5879e5614e236/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d3536334437433f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465" /></a>
-  <a href="https://angular.io/"><img src =
-"https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" /></a>
-</h4>
-
-#### Java
-  Java é uma linguagem de programação de paradigma orientado a objetos desenvolvida na década de 90. Uma das mais consolidadas no meio da programação, é uma linguagem de propósito geral com a intenção de ser capaz de rodar em qualquer plataforma que suporte a tecnologia, utilizando o JVM (Java Virtual Machine) como compilador da linguagem.
-  Neste projeto utilizamos o Java para desenvolver o sistema, implementando a orientação a objetos e aproveitando a biblioteca JavaSQL pra fazer a conexão com o banco de dados da aplicação.
+  </ul>
   
-#### PostgreSQL
-  O banco de dados do sistema proposto foi construido com o PostgreSQL, um sistema gerenciador de banco de dados objeto relacional que usa e estende a linguagem SQL(Strucutred Query Language), combinando diversas características para guardar e escalar dados com segurança.
-
-#### Front-end
-No front-end foi utilizado o Angular (como requisito da Fatec) que é uma plataforma baseada em Typescript, para criação das telas de interação com o cliente, e para realizar as requisições para a API que foi desenvolvida. O Java com o framework Spring foi utilizado para criação da API de backend, com a criação das rotas HTTP, conexão com o banco de dados, tratamento de erros e aplicação das regras de negócio. Como banco de dados, foi utilizado o H2 que é um sistema de gerenciamento de banco de dados relacional em memória.
-
-
-## Contribuições Pessoais
+  <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
+  
+  <h3> Atribuições como Desenvolvedor Front-end</h3>
 
 Fui responsável por ajudar no desenvolvimento front-end da aplicação. Por ser o terceiro semestre do curso, já havia construído uma base de conhecimentos necessários para desenvolver o projeto, embora o uso de tecnologias diferentes das apresentadas anteriormente tenha dificultado o processo de desenvolvimento.
   
 Sendo responsável pelo desenvolvimento do front-end do sistema, implementei serviços de cadastro, leitura e remoção de dados coletados pela aplicação. Também prestei apoio na criação das interfaces gráficas com o Java e no versionamento do projeto com a tecnologia Git.
   
-
 </details>   
 
 Participei de forma efetiva da integração do Front-End com Back-End, criando alguns métodos e realizando testes para validação das requisições.
@@ -120,7 +90,7 @@ Participei de forma efetiva da integração do Front-End com Back-End, criando a
   sendo um trecho importante pois enviar dados, processa o retorno e já devolve os resultados para usuário.
 
 
-Click aqui [GitHub](https://github.com/Doc-Docker/APIMidAll/blob/main/frontend-midall/src/app/cart.service.ts) para mais detalhes da implementação do método responsável por enviar a requisição para back-end. 
+Click aqui [GitHub](https://github.com/Doc-Docker/APIMidAll/blob/main/frontend-midall/src/app/cart.service.ts) para mais detalhes da implementação do método responsável por enviar a requisição para o back-end. 
 
 </details>   
 
@@ -170,6 +140,7 @@ Implementação da interface do carrinho de compras;</br>
    <details>
       <summary>Código html para exibição dos produtos </summary>
       
+ ```html
           <table class="table table-condensed table-hover">
                 <thead>
                     <tr>
@@ -199,11 +170,13 @@ Implementação da interface do carrinho de compras;</br>
                 </tbody>
                 
             </table>
+ ```
+ 
    </details>
   
 Contudo, vale acrescentar que por ser o primeiro contato com uma empresa terceira no curso de Banco de Dados, o desafio foi diferente do projeto anterior pois deveríamos atender os requisitos necessários e ter uma comunicação ativa com o cliente a fim de produzir entregas de valores a cada etapa do processo, por isso ajudei a gerenciar a equipe utilizando a metodologia ágil Scrum.
 
-## Aprendizados Efetivos
+<h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>  
 
 A MidAll foi primeiro sistema web com o qual trabalhei. Em seu desenvolvimento, obtive meu primeiro contato com conceitos bases para todo profissional desenvolvedor de software.
 
@@ -214,29 +187,76 @@ Além destes itens importantes que foram citados acima, outros aprendizados impo
 Durante o desenvolvimento do projeto, a performance do sistema foi uma questão central em seu desenvolvimento.
 Possuíamos uma base de dados minimamente volumosa, e precisávamos calcular diversos fatores de todos os seus registros. Com isso, precisávamos pensar em formas mais eficientes em processamento para garantir uma resposta rápida e confiável ao nosso usuário final. A evolução nos algoritmos de análise de dados com o passar do projeto é algo que foi de grande valia para a nossa formação como profissionais desenvolvedores.
 
-#### Hard Skills Efetivamente Desenvolvidas
+  <h3 align="center"> Hard Skills </h3>
+  <table align="center">
+    <tr>
+      <th width="300px">Tecnologia/Metodologia</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Metodologia Ágil Scrum</td>
+      <td>★★☆☆☆</td>
+    </tr>
+    <tr>
+      <td>MySQL</td>
+      <td>★★★☆☆</td>
+    </tr>	
+    <tr>
+      <td>HTML</td>
+      <td>★★★★☆</td>
+    </tr>
+    <tr>
+      <td>CSS</td>
+      <td>★★★★☆</td>
+    </tr>
+   <tr>
+      <td>PHP</td>
+      <td>★★★☆☆</td>
+    </tr>
+   <tr>
+      <td>JavaScript</td>
+      <td>★★☆☆☆</td>
+    </tr>
+    <tr>
+      <td>GIT</td>
+      <td>★★★☆☆</td>
+    </tr>
+  </table>
+  
+  <h3 align="center">Soft Skills</h3>
+  <table align="center">
+    <tr>
+      <th width="300px">Habilidade</th>
+      <th width="300px">Descrição</th>
+    </tr>
+    <tr>
+      <td>Proatividade</td>
+      <td>Precisei estudar bastante sobre desenvolvimento web.</td>
+    </tr>
+    <tr>
+      <td>Conhecimento</td>
+      <td>Precisei aprender a utilizar e aplicar o Scrum no projeto.</td>
+    </tr>
+    <tr>
+      <td>Comunicação</td>
+      <td>Precisei me comunicar sobre a evolução das minhas tarefas.</td>
+    </tr>
+    <tr>
+      <td>Organização</td>
+      <td>Precisei organizar a documentação e código no GitHub.</td>
+    </tr>
+  </table>
+  
+---
 
-No mais, o conhecimento adquirido neste projeto pode ser resumido da seguinte forma:
+ <h2 align="center"> Navegação Projetos :link:</h2>
 
-- Desenvolvimento de aplicações back-end em Java: Sei fazer com ajuda.
-
-- Criação de uma API HTTP que gerencia requests e respostas para um cliente: sei fazer com autonomia
-
-- Versionamento de repositório git: Sei fazer com autonomia.
-
-- Importação de dados de diferentes fontes e análises gerais sobre o conteúdo importado: sei fazer com ajuda
-
-- Definir a arquitetura de um sistema de acordo com seus requisitos funcionais e não funcionais: sei fazer com ajuda
-
-- Desenvolvimento com integração a um banco de dados relacional: Sei fazer com autonomia
-
-
-#### Soft Skills Efetivamente Desenvolvidas
-
-- **Comunicação**: uma habilidade que está em constante desenvolvimento, e não foi diferente nesta etapa onde foi necessário apresentar o projeto para o cliente e professores avaliadores. Além de ser necessário para manter um esquema organizacional eficiente, ativo e funcional entre os integrantes da equipe. 
-- **Controle de Tempo**: por ser o primeiro projeto em parceria com um cliente real no curso de Banco de Dados, uma empresa parceira da universidade, com prazos mais curtos para um desenvolvimento mais complexo e com mais requisitos, o controle do tempo foi necessário para cumprir com as entregas nos prazos determinados, buscando otimizar a eficiência.
-- **Tomadas de Decisões**: muitas vezes o melhor caminho pode não ser o mais claro ou o mais fácil, portanto a tomada de decisões de forma assertiva foi uma habilidade crítica para o desenvolvimento do projeto.
-
-## Contatos
-* [GitHub](https://github.com/BryanRibeiro)
-* [LinkedIn](https://linkedin.com/in/bryanrribeiro/)
+   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/BryanRibeiro/Portfolio-Projetos/blob/main/API_1.md"> 1º Semestre: SOS EDUCA - Site de Vendas de Materiais Didáticos</a></li></p>
+   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/BryanRibeiro/Portfolio-Projetos/blob/main/API_2.md">2º Semestre: GSW - Dashboard para acompanhamentos dos projetos, através de diferentes fontes de dados.</a></li></p>
+   <p align="justify" style="font-family:roboto;"><li> 3° Semestre: PromoAll - Ecommerce com um motor de regras para promoções aplicadas no momento da compra.</a></li></p>
+   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/BryanRibeiro/Portfolio-Projetos/blob/main/API_4.md">4° Semestre: Subiter - Aplicação Web para sincronização dos dados administrativos, financeiros e operacionais.</a></li></p>
+   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/BryanRibeiro/Portfolio-Projetos/blob/main/API_5.md">5º Semestre: MidAll - Transferência automática de arquivos entre nuvens e análise dos metadados.</a></li></p>
+   <p align="justify" style="font-family:roboto;"><li><a href=""> 6º Semestre: Em Construção 🏗️</a></li></p>
+  
+</body>
+</html>
