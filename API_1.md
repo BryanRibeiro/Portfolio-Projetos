@@ -175,27 +175,31 @@ function realizarEntrega(endereco, dadosEntrega) {
     </tr>
     <tr>
       <td>Metodologia Ágil Scrum</td>
-      <td>★★★★☆☆☆☆☆☆</td>
+      <td>★★☆☆☆</td>
     </tr>
+    <tr>
+      <td>MySQL</td>
+      <td>★★★☆☆</td>
+    </tr>	
     <tr>
       <td>HTML</td>
-      <td>★★★★★★☆☆☆☆</td>
+      <td>★★★★☆</td>
     </tr>
     <tr>
-      <td>PHP</td>
-      <td>★★★★★☆☆☆☆☆</td>
-    </tr>
-   <tr>
       <td>CSS</td>
-      <td>★★★★★★☆☆☆☆</td>
+      <td>★★★★☆</td>
     </tr>
    <tr>
-      <td>MySQL</td>
-      <td>★★★☆☆☆☆☆☆☆</td>
+      <td>PHP</td>
+      <td>★★★☆☆</td>
+    </tr>
+   <tr>
+      <td>JavaScript</td>
+      <td>★★☆☆☆</td>
     </tr>
     <tr>
       <td>GIT</td>
-      <td>★★★★★☆☆☆☆☆</td>
+      <td>★★★☆☆</td>
     </tr>
   </table>
   
