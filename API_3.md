@@ -9,8 +9,7 @@
   
   <h2 style="font-family:roboto;"> Resumo do Projeto :clipboard:</h2>
   
-  <p align="justify" style="font-family:roboto;"> A empresa parceira MidAll tem um problema para criação de promoções em um Ecommerce. Precisamos de uma solução inteligente
-onde, as mecânicas das promoções sejam feitas de forma flexível e de rápida atualização no sistema. A ideia foi criar um mini motor de regras com uma interface onde as regras das promoções possam ser cadastradas e aplicadas no momento que os itens forem para o carrinho de compras.
+  <p align="justify" style="font-family:roboto;"> O projeto visa resolver o problema da empresa MidAll relacionado à criação de promoções em seu e-commerce. A solução proposta foi desenvolver um mini motor de regras que permitiu a flexibilidade e rápida atualização das mecânicas das promoções no sistema. Isso foi feito por meio de uma interface onde as regras das promoções poderiam ser cadastradas e aplicadas automaticamente quando os itens fossem adicionados ao carrinho de compras. Essa abordagem ofereceu agilidade na configuração e adaptação das promoções, proporcionando uma experiência personalizada aos clientes.
 
 **O problema é:** O cliente tem um e-commerce, porém necessita de um sistema de compras inteligente que gere promoções com base nas vendas;
 
@@ -195,31 +194,31 @@ Possuíamos uma base de dados minimamente volumosa, e precisávamos calcular div
     </tr>
     <tr>
       <td>Metodologia Ágil Scrum</td>
-      <td>★★☆☆☆</td>
-    </tr>
-    <tr>
-      <td>MySQL</td>
-      <td>★★★☆☆</td>
-    </tr>	
-    <tr>
-      <td>HTML</td>
       <td>★★★★☆</td>
     </tr>
     <tr>
+      <td>Microsoft SQL Server</td>
+      <td>★★★☆☆</td>
+    </tr>	
+    <tr>
+      <td>Java</td>
+      <td>★★☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Angular</td>
+      <td>★★★☆☆</td>
+    </tr>
+   <tr>
       <td>CSS</td>
       <td>★★★★☆</td>
     </tr>
    <tr>
-      <td>PHP</td>
-      <td>★★★☆☆</td>
-    </tr>
-   <tr>
-      <td>JavaScript</td>
-      <td>★★☆☆☆</td>
+      <td>Bootstrap</td>
+      <td>★★★★☆</td>
     </tr>
     <tr>
-      <td>GIT</td>
-      <td>★★★☆☆</td>
+      <td>Figma</td>
+      <td>★★★★☆</td>
     </tr>
   </table>
   
