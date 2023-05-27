@@ -64,11 +64,11 @@ Minha contribuição utilizando PHP permitiu a implementação da funcionalidade
 
 <details>
 	
-<summary>Manipulação dos dados de Formulário de Login</summary>
+<summary>Manipulação dos dados com PHP</summary>
  
 > Inicialização de sessão: Com a linha "?php session_start(); ?", iniciei uma sessão PHP. Isso permite que armazene e acesse variáveis de sessão, que podem ser usadas para manter dados específicos do usuário entre as requisições.
-	
-> Inclusão de arquivos: Utilizei a função include() para incluir arquivos PHP no código. Com "?php include('cabecalho.php');?", coloquei o conteúdo do arquivo "cabecalho.php" no local onde essa linha está presente. Da mesma forma, "?php include('navbar.php');?" o conteúdo do arquivo "navbar.php", e "?php include('rodape.php');?" o conteúdo do arquivo "rodape.php".
+
+> Utilizei o PHP para manipular os dados submetidos no formulário de login. O formulário é enviado para o arquivo "autenticando_clientes.php" através do atributo action no elemento "form".
 	
 ```php
  
@@ -123,12 +123,90 @@ Minha contribuição utilizando PHP permitiu a implementação da funcionalidade
 
 ```
 
-> Manipulação de dados de formulário: Utilizei o PHP para manipular os dados submetidos no formulário de login. O formulário é enviado para o arquivo "autenticando_clientes.php" através do atributo action no elemento "form".
+</details>  
+
+<details>
+	
+<summary>Validação do Formulário de Login</summary>
  
+```javascript
+
+document.getElementById("loginForm").addEventListener("submit", function(event) {
+  event.preventDefault();
+  var email = document.getElementById("email").value;
+  var password = document.getElementById("password").value;
+  
+  // Realizar validação do email e senha
+  if (email && password) {
+    // Fazer chamada assíncrona para o backend em PHP
+    fetch("login.php", {
+      method: "POST",
+      body: JSON.stringify({ email: email, password: password }),
+      headers: {
+        "Content-Type": "application/json"
+      }
+    })
+    .then(response => response.json())
+    .then(data => {
+      // Tratar a resposta do backend
+    })
+    .catch(error => {
+      // Tratar erros
+    });
+  }
+});
+
+```
+
 </details>  
  
-</p>
+**Criação e Estilização de Interfaces:**
+Desenvolvi as interfaces do usuário utilizando HTML, CSS e Bootstrap, seguindo as diretrizes de design fornecidas pelo Figma como referência.
+Ajudei a criar um layout responsivo que se adaptasse a diferentes dispositivos e tamanhos de tela. Isso permitiu que os usuários acessassem o site de qualquer dispositivo, como computadores, tablets e smartphones, proporcionando uma experiência consistente.
+Ao utilizar o Bootstrap, aproveitei os componentes e classes pré-definidos para criar rapidamente interfaces consistentes, economizando tempo e esforço.
+
+<details>
+	
+<summary>Estilização do formulário de Login</summary>
+	
+```css
+
+  .wrapper {
+    display: flex;
+    align-items: center;
+    flex-direction: column; 
+    justify-content: center;
+    width: 100%;
+    min-height: 100%;
+    padding: 20px;
+  }
   
+  #formContent {
+    -webkit-border-radius: 10px 10px 10px 10px;
+    border-radius: 10px 10px 10px 10px;
+    background: #fff;
+    padding: 30px;
+    width: 90%;
+    max-width: 450px;
+    position: relative;
+    padding: 0px;
+    -webkit-box-shadow: 0 30px 60px 0 rgba(0,0,0,0.3);
+    box-shadow: 0 30px 60px 0 rgba(0,0,0,0.3);
+    text-align: center;
+  }
+  
+  #formFooter {
+    background-color: #f6f6f6;
+    border-top: 1px solid #dce8f1;
+    padding: 25px;
+    text-align: center;
+    -webkit-border-radius: 0 0 10px 10px;
+    border-radius: 0 0 10px 10px;
+  }
+
+```
+ 
+</details> 
   
   <h2 style="font-family:roboto;"> Funcionamento :bulb:</h2>
 
