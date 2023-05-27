@@ -30,7 +30,8 @@ Uma das principais características do site foi a facilidade de navegação e bu
  <h2 style="font-family:roboto;"> Tecnologias Adotadas :computer:</h2>
  
  <div style="display: inline_block"><br> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg" width="100"    height="100" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg" width="100"    height="100" />	 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg" width="100"    height="100" />
  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg" width="100" height="100" />
  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-plain.svg" width="100" height="100" />
  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/trello/trello-plain-wordmark.svg" width="100" height="100" />
@@ -39,6 +40,8 @@ Uma das principais características do site foi a facilidade de navegação e bu
 <br>
  
   <ul>
+  <li><a href="https://www.mysql.com/">MySQL</a>: MySQL é um sistema de gerenciamento de banco de dados (SGBD) relacional, ou seja, que utiliza a linguagem SQL como interface. Lançado sobre a licença GPL, possui como desenvolvedor a Oracle Corporation.</p></li>
+  </li>	  
   <li><a href="https://html.spec.whatwg.org/multipage/">HTML</a>: É uma linguagem de marcação utilizada para estruturar e organizar o conteúdo das páginas da web. Com suas tags e elementos, permite a criação de textos, imagens, links e formulários, fornecendo a base fundamental para a construção de sites. É complementado por outras tecnologias como CSS e JavaScript para estilização e interatividade.</p></li>
   </li>
    <li><a href="https://www.w3.org/Style/CSS/Overview.en.html">CSS</a>: CSS é uma linguagem de estilo utilizada para definir a apresentação e o layout visual das páginas da web.</p></li>
@@ -190,17 +193,9 @@ function realizarEntrega(endereco, dadosEntrega) {
       <td>MySQL</td>
       <td>★★★☆☆☆☆☆☆☆</td>
     </tr>
-   <tr>
-      <td>Bootstrap</td>
-      <td>★★★☆☆☆☆☆☆☆</td>
-    </tr>
-     <tr>
+    <tr>
       <td>GIT</td>
       <td>★★★★★☆☆☆☆☆</td>
-    </tr>
-      <tr>
-      <td>Figma</td>
-      <td>★★★★★★☆☆☆☆</td>
     </tr>
   </table>
   
