@@ -27,9 +27,9 @@ Através desse Dashboard, a diretoria da empresa poderá ter uma visão abrangen
 <br>
  
   <ul>
-  <li><a href="https://www.mysql.com/">PostgreSQL</a>: MySQL é um sistema de gerenciamento de banco de dados (SGBD) relacional, ou seja, que utiliza a linguagem SQL como interface. Lançado sobre a licença GPL, possui como desenvolvedor a Oracle Corporation.</p></li>
+  <li><a href="https://www.mysql.com/">PostgreSQL</a>: O PostgreSQL é um sistema de gerenciamento de banco de dados relacional de código aberto, conhecido por sua robustez, confiabilidade e suporte avançado a recursos como transações ACID, replicação e escalabilidade horizontal.</p></li>
   </li>	  
-  <li><a href="https://html.spec.whatwg.org/multipage/">Python</a>: É uma linguagem de marcação utilizada para estruturar e organizar o conteúdo das páginas da web. Com suas tags e elementos, permite a criação de textos, imagens, links e formulários, fornecendo a base fundamental para a construção de sites. É complementado por outras tecnologias como CSS e JavaScript para estilização e interatividade.</p></li>
+  <li><a href="https://html.spec.whatwg.org/multipage/">Python</a>: Python é uma linguagem de programação de alto nível, interpretada e de propósito geral, conhecida por sua simplicidade, legibilidade e ampla aplicabilidade em diferentes domínios, desde desenvolvimento web até análise de dados.</p></li>
   </li>
    <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">JavaScript</a>: É uma linguagem de programação versátil e poderosa, utilizada para adicionar interatividade, funcionalidades dinâmicas e comportamentos aos sites.</p></li>
   </li>
@@ -37,7 +37,7 @@ Através desse Dashboard, a diretoria da empresa poderá ter uma visão abrangen
   </li>
    <li><a href="https://www.w3.org/Style/CSS/Overview.en.html">CSS</a>: CSS é uma linguagem de estilo utilizada para definir a apresentação e o layout visual das páginas da web.</p></li>
   </li>
-  <li><a href="https://trello.com/https://trello.com">Visual Studio Code</a>: Foi utilizado como ferramenta do método Scrum para distribuição das atividades do grupo e priorização das demandas. Possibilitando realizar o planejamento das sprints, sendo capaz de registrar o progresso da equipe e do projeto, facilitando o desenvolvimento e acompanhamento da realização de tarefas. </p></li>
+  <li><a href="https://trello.com/https://trello.com">Visual Studio Code</a>: O "VS Code" é um editor de código-fonte leve e altamente personalizável, desenvolvido pela Microsoft, com suporte a várias linguagens de programação e uma ampla gama de extensões que aumentam sua funcionalidade.</p></li>
   </li>
 
   </ul>
