@@ -216,6 +216,11 @@ Ao utilizar o Bootstrap, aproveitei os componentes e classes pré-definidos para
   <h1 align="center"> <img src = "https://github.com/Grupo-1-2020-PI-FATEC-ADS/SOS-EDUCA/blob/master/Imagens%20Geral/videosprint3.gif"/></h1>
  
   <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
+  
+Tive a oportunidade de aprofundar meus conhecimentos em desenvolvimento web, especialmente em relação à criação de um site de comércio eletrônico completo. Isso envolveu o domínio de tecnologias como HTML, CSS e JavaScript, além de frameworks e bibliotecas relevantes para a implementação de recursos de navegação, busca e filtragem. Além disso, tive a chance de trabalhar com bancos de dados, uma vez que o projeto envolvia a gestão e organização de um amplo catálogo de materiais didáticos. Nesse contexto, o aprendizado e a aplicação do MySQL foram fundamentais para entender e implementar a estrutura de dados necessária para armazenar e recuperar as informações relevantes.
+
+Outro aspecto importante foi o foco na usabilidade e experiência do usuário. Ao implementar recursos de busca e filtragem avançados, tive que considerar a facilidade de navegação e o fornecimento de informações relevantes de forma eficiente, contribuindo para a satisfação dos usuários e tornando o site mais atraente. Além disso, o desenvolvimento desse projeto permitiu que eu aprimorasse minhas habilidades de trabalho em equipe, uma vez que a criação de um site de comércio eletrônico envolve diferentes etapas e requer colaboração com os integrantes da equipe.
+
   <h3 align="center"> Hard Skills </h3>
   <table align="center">
     <tr>
