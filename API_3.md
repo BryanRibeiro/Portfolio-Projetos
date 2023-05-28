@@ -60,12 +60,11 @@ Sendo responsável pelo desenvolvimento do front-end do sistema, implementei ser
 
 Participei de forma efetiva da integração do Front-End com Back-End, criando alguns métodos e realizando testes para validação das requisições.
 
- <details open><summary>Informações código Front-End</summary>
-  
-  
-   1. Trecho do código responsável de receber o retorno do back-end, da explicação citada acima.
+Trecho do código responsável de receber o retorno do back-end, da explicação citada acima.
    
-     
+ <details>
+      <summary>Informações código Front-End</summary>
+ 
    ```js
    
         this.total = this.noDiscount += (element.price  * element.quantidade);
