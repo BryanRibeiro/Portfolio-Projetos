@@ -206,8 +206,8 @@ Ao utilizar o Bootstrap, aproveitei os componentes e classes pré-definidos para
       <th width="300px">Classificação</th>
     </tr>
     <tr>
-      <td>Metodologia Ágil Scrum</td>
-      <td>★★☆☆☆</td>
+      <td>Metodologia Scrum - Scrum Master</td>
+      <td>★★★★☆</td>
     </tr>
     <tr>
       <td>MySQL</td>
@@ -242,16 +242,16 @@ Ao utilizar o Bootstrap, aproveitei os componentes e classes pré-definidos para
       <th width="300px">Descrição</th>
     </tr>
     <tr>
-      <td>Proatividade</td>
-      <td>Precisei estudar bastante sobre desenvolvimento web.</td>
+      <td>Responsabilidade</td>
+      <td>Assumi o cargo de Scrum Master pela primeira vez.</td>
     </tr>
     <tr>
-      <td>Conhecimento</td>
-      <td>Precisei aprender a utilizar e aplicar o Scrum no projeto.</td>
+      <td>Planejamento</td>
+      <td>Precisei quebrar as tarefas das SPRINT's, colocando datas limites e acompanhando o desenvolvimento.</td>
     </tr>
     <tr>
       <td>Comunicação</td>
-      <td>Precisei me comunicar sobre a evolução das minhas tarefas.</td>
+      <td>Precisei me comunicar com a equipe para saber a evolução das tarefas nas SPRINTS.</td>
     </tr>
     <tr>
       <td>Organização</td>
