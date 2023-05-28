@@ -229,8 +229,8 @@ Possuíamos uma base de dados minimamente volumosa, e precisávamos calcular div
       <th width="300px">Descrição</th>
     </tr>
     <tr>
-      <td>Proatividade</td>
-      <td>Precisei estudar bastante sobre desenvolvimento web.</td>
+      <td>Resiliência</td>
+      <td>Precisei ser resiliente para superar alguns problemas internos na equipe e entregar uma solução com valor para o cliente.</td>
     </tr>
     <tr>
       <td>Conhecimento</td>
