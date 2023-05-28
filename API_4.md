@@ -1,23 +1,21 @@
 <html>
 <body>
  <h1 align="center"> API 4º Semestre - 02/2022</h1>
-<a href="https://github.com/Doc-Docker/APIMidAll"><img src="https://img.shields.io/badge/GitHub-Repositório Projeto-181717?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Doc-Docker/APISubiter"><img src="https://img.shields.io/badge/GitHub-Repositório Projeto-181717?style=for-the-badge&logo=github"></a>
  
- <h2> Parceiro Acadêmico: <a href="https://midall.com.br/">MidAll [B]</a></h2>
+ <h2> Parceiro Acadêmico: <a href="https://www.subiter.com/">Subiter</a></h2>
  
-<img src="https://github.com/BryanRibeiro/Portfolio-Projetos/blob/main/images/logo%20midall.png" height="150" width="230"/>
+<img src="https://github.com/BryanRibeiro/Portfolio-Projetos/blob/main/images/logosubiter.png" height="150" width="250"/>
   
   <h2 style="font-family:roboto;"> Resumo do Projeto :clipboard:</h2>
   
-  <p align="justify" style="font-family:roboto;"> O projeto visa resolver o problema da empresa MidAll relacionado à criação de promoções em seu e-commerce. A solução proposta foi desenvolver um mini motor de regras que permitiu a flexibilidade e rápida atualização das mecânicas das promoções no sistema. Isso foi feito por meio de uma interface onde as regras das promoções poderiam ser cadastradas e aplicadas automaticamente quando os itens fossem adicionados ao carrinho de compras. Essa abordagem ofereceu agilidade na configuração e adaptação das promoções, proporcionando uma experiência personalizada aos clientes.
+  <p align="justify" style="font-family:roboto;"> O projeto tinha como objetivo solucionar o desafio de sincronização dos dados administrativos, financeiros e operacionais relacionados aos serviços prestados pela empresa. Na época, a falta de organização desses dados resultava em lentidão para atender chamados e dificuldades na interpretação dos indicadores comerciais e financeiros.
 
-**O problema é:** O cliente tem um e-commerce, porém necessita de um sistema de compras inteligente que gere promoções com base nas vendas;
+Para resolver essa questão, foi necessário implementar um sistema de gerenciamento integrado que centralizasse e organizasse todas as informações relevantes. Isso envolveu a criação de um banco de dados robusto e escalável, capaz de armazenar e gerenciar dados de diferentes áreas da empresa, como atendimento ao cliente, vendas, finanças e operações.
 
-**Que afeta** as compras feitas pelos clientes no site;
+A implementação do sistema de gerenciamento integrado proporcionou vários benefícios. Em primeiro lugar, a sincronização dos dados permitiu um atendimento mais ágil aos chamados, pois as informações ficaram disponíveis de forma organizada e de fácil acesso para os colaboradores responsáveis por resolver os problemas dos clientes.
 
-**O impacto disto é** gerar mais vendas e lucros para a empresa, para que o cliente final fique satisfeito com suas promoções;
-
-**A solução seria** O desenvolvimento de uma aplicação web que irá automatizar este processo no ato da compra, gerando promoções específicas.
+Além disso, a centralização dos dados administrativos, financeiros e operacionais possibilitou uma análise mais precisa dos indicadores comerciais e financeiros da empresa. Foi possível gerar relatórios e métricas atualizados em tempo real, facilitando a interpretação dos dados e auxiliando na tomada de decisões estratégicas.
 
 <h2 style="font-family:roboto;"> Tecnologias Adotadas :computer:</h2>
  
@@ -250,10 +248,10 @@ Possuíamos uma base de dados minimamente volumosa, e precisávamos calcular div
 
  <h2 align="center"> Navegação Projetos :link:</h2>
 
-   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/BryanRibeiro/Portfolio-Projetos/blob/main/API_1.md"> 1º Semestre: SOS EDUCA - Site de Vendas de Materiais Didáticos</a></li></p>
+   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/BryanRibeiro/Portfolio-Projetos/blob/main/API_1.md">1º Semestre: SOS EDUCA - Site de Vendas de Materiais Didáticos</a></li></p>
    <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/BryanRibeiro/Portfolio-Projetos/blob/main/API_2.md">2º Semestre: GSW - Dashboard para acompanhamentos dos projetos, através de diferentes fontes de dados.</a></li></p>
-   <p align="justify" style="font-family:roboto;"><li> 3° Semestre: PromoAll - Ecommerce com um motor de regras para promoções aplicadas no momento da compra.</a></li></p>
-   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/BryanRibeiro/Portfolio-Projetos/blob/main/API_4.md">4° Semestre: Subiter - Aplicação Web para sincronização dos dados administrativos, financeiros e operacionais.</a></li></p>
+   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/BryanRibeiro/Portfolio-Projetos/blob/main/API_3.md">3° Semestre: PromoAll - Ecommerce com um motor de regras para promoções aplicadas no momento da compra.</a></li></p>
+   <p align="justify" style="font-family:roboto;"><li>4° Semestre: Subiter - Aplicação Web para sincronização dos dados administrativos, financeiros e operacionais.</a></li></p>
    <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/BryanRibeiro/Portfolio-Projetos/blob/main/API_5.md">5º Semestre: Em Construção 🏗️</a></li></p>
    <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/BryanRibeiro/Portfolio-Projetos/blob/main/API_6.md">6º Semestre: Em Construção 🏗️</a></li></p>
   
