@@ -251,7 +251,7 @@ Ao utilizar o Bootstrap, aproveitei os componentes e classes pré-definidos para
     </tr>
     <tr>
       <td>Comunicação</td>
-      <td>Precisei me comunicar com a equipe para saber a evolução das tarefas nas SPRINTS.</td>
+      <td>Precisei me comunicar com a equipe para saber a evolução das tarefas nas SPRINT's.</td>
     </tr>
     <tr>
       <td>Organização</td>
