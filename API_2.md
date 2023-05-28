@@ -211,28 +211,28 @@ Ao utilizar o Bootstrap, aproveitei os componentes e classes pré-definidos para
       <td>★★★★☆</td>
     </tr>
     <tr>
-      <td>MySQL</td>
+      <td>PostgreSQL</td>
       <td>★★★☆☆</td>
     </tr>	
     <tr>
-      <td>HTML</td>
-      <td>★★★★☆</td>
+      <td>Python</td>
+      <td>★★★☆☆</td>
     </tr>
     <tr>
+      <td>JavaScript</td>
+      <td>★★★☆☆</td>
+    </tr>
+   <tr>
+      <td>HTML</td>
+      <td>★★★★★</td>
+    </tr>
+   <tr>
       <td>CSS</td>
       <td>★★★★☆</td>
     </tr>
-   <tr>
-      <td>PHP</td>
-      <td>★★★☆☆</td>
-    </tr>
-   <tr>
-      <td>JavaScript</td>
-      <td>★★☆☆☆</td>
-    </tr>
     <tr>
-      <td>GIT</td>
-      <td>★★★☆☆</td>
+      <td>Visual Studio Code</td>
+      <td>★★★★☆</td>
     </tr>
   </table>
   
