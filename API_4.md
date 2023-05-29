@@ -20,28 +20,28 @@ Além disso, a centralização dos dados administrativos, financeiros e operacio
 <h2 style="font-family:roboto;"> Tecnologias Adotadas :computer:</h2>
  
  <div style="display: inline_block"><br> 
- <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="100"    height="100" />	 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/oracle/oracle-original.svg" width="100"    height="100" />	 
  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg" width="100"    height="100" />
- <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg" width="100" height="100" />
- <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg" width="100" height="100" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg" width="100" height="100" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original-wordmark.svg" width="100" height="100" />
  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original-wordmark.svg" width="100" height="100" />
- <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" width="100" height="100" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/intellij/intellij-original.svg" width="100" height="100" />
 </div>
  
 <br>
  
   <ul>
-  <li><a href="https://azure.microsoft.com/">Microsoft SQL Server</a>: O Microsoft SQL Server é um sistema de gerenciamento de banco de dados relacional desenvolvido pela Microsoft, amplamente utilizado para armazenar, manipular e recuperar dados de forma eficiente e segura.</p></li>
+  <li><a href="https://www.oracle.com/br/cloud/">Oracle Cloud</a>: A Oracle Cloud é uma plataforma de nuvem que oferece serviços abrangentes de armazenamento, computação e aplicativos, além de ser altamente escalável e segura.</p></li>
   </li>	  
   <li><a href="https://www.java.com/pt-BR/">Java</a>: Java é uma linguagem de programação de alto nível, multiplataforma e orientada a objetos, conhecida por sua portabilidade e segurança, amplamente usada no desenvolvimento de aplicativos e sistemas corporativos.</p></li>
   </li>
-   <li><a href="https://angular.io/">Angular</a>: É um framework de desenvolvimento de aplicativos web de código aberto, baseado em TypeScript, que permite a criação de interfaces de usuário dinâmicas e escaláveis, utilizando conceitos como componentes e injeção de dependência.</p></li>
+   <li><a href="https://vuejs.org/">Vue.js</a>: O Vue.js é um framework JavaScript progressivo e de código aberto para construção de interfaces de usuário interativas e dinâmicas. Ele oferece uma abordagem simples e flexível para o desenvolvimento de aplicações web modernas.</p></li>
   </li>
-   <li><a href="https://www.w3.org/Style/CSS/Overview.en.html">CSS</a>: CSS é uma linguagem de estilo utilizada para definir a apresentação e o layout visual das páginas da web.</p></li>
+   <li><a href="https://www.docker.com/">Docker</a>: O Docker é uma plataforma de virtualização leve e portátil que permite empacotar, distribuir e executar aplicativos de forma isolada, garantindo a portabilidade e consistência do ambiente de desenvolvimento e produção.</p></li>
   </li>
    <li><a href="https://getbootstrap.com/">Bootstrap</a>: Bootstrap é um framework front-end de código aberto que facilita o desenvolvimento de interfaces responsivas e estilizadas, fornecendo um conjunto de estilos predefinidos e componentes reutilizáveis, agilizando o processo de criação de páginas web modernas e atraentes.</p></li>
   </li>
-  <li><a href="https://www.figma.com/">Figma</a>: Figma é uma ferramenta de design colaborativo baseada na nuvem, que permite criar interfaces de usuário, protótipos interativos e compartilhar facilmente os designs com equipes de trabalho, agilizando o processo de design e feedback em projetos de design de produtos e interfaces digitais.</p></li>
+  <li><a href="https://www.jetbrains.com/idea/">IntelliJ IDEA</a>: O IntelliJ IDEA é um ambiente de desenvolvimento integrado (IDE) altamente produtivo para programação em diversas linguagens.</p></li>
   </li>
 
   </ul>
