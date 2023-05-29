@@ -175,14 +175,11 @@ Contudo, vale acrescentar que por ser o primeiro contato com uma empresa terceir
 
 <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>  
 
-A MidAll foi primeiro sistema web com o qual trabalhei. Em seu desenvolvimento, obtive meu primeiro contato com conceitos bases para todo profissional desenvolvedor de software.
+Neste projeto pude aprimorar minha habilidade em trabalhar com o Oracle Cloud como banco de dados, adquirindo conhecimentos específicos dessa tecnologia. Também tive a oportunidade de aprofundar meus conhecimentos em Java e Spring Boot, utilizando essas ferramentas para implementar a lógica do back-end do sistema.
 
-A integração do projeto com as matérias do semestre se deu em diversas frentes. A mais importante delas foi na disciplina de Engenharia de Software. Durante o semestre de desenvolvimento deste trabalho, iniciamos o aprendizado sobre diversos padrões de projeto nesta disciplina, pela primeira vez. Com isso, pela primeira vez nos preocupamos em separar nosso programa que se tornaria o produto em camadas, seguir padrões de arquitetura, torná-lo componentizável e seguindo modos de construção comuns aos utilizados no mercado e comunidade. Foi o passo inicial de estudo sobre tais competências tão importantes para qualquer desenvolvedor de software.
+No front-end, desenvolvi minhas habilidades em HTML, JavaScript com Vue.js, CSS e Bootstrap, permitindo criar interfaces interativas e responsivas para o sistema de gerenciamento integrado. A combinação dessas tecnologias proporcionou uma experiência de usuário mais intuitiva e amigável.
 
-Além destes itens importantes que foram citados acima, outros aprendizados importantes precisam ser mencionados:
-
-Durante o desenvolvimento do projeto, a performance do sistema foi uma questão central em seu desenvolvimento.
-Possuíamos uma base de dados minimamente volumosa, e precisávamos calcular diversos fatores de todos os seus registros. Com isso, precisávamos pensar em formas mais eficientes em processamento para garantir uma resposta rápida e confiável ao nosso usuário final. A evolução nos algoritmos de análise de dados com o passar do projeto é algo que foi de grande valia para a nossa formação como profissionais desenvolvedores.
+Além disso, o projeto me ensinou a importância da organização e centralização dos dados, assim como a sincronização e integração de informações entre diferentes áreas de uma empresa. Compreendi a relevância de ter um sistema capaz de disponibilizar os dados de forma rápida e organizada, permitindo melhorias significativas no atendimento ao cliente e na análise dos indicadores comerciais e financeiros.
 
   <h3 align="center"> Hard Skills </h3>
   <table align="center">
