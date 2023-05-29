@@ -191,32 +191,32 @@ Possuíamos uma base de dados minimamente volumosa, e precisávamos calcular div
       <th width="300px">Classificação</th>
     </tr>
     <tr>
-      <td>Metodologia Ágil Scrum</td>
+      <td>Metodologia Scrum - Product Owner</td>
       <td>★★★★☆</td>
     </tr>
     <tr>
-      <td>Microsoft SQL Server</td>
+      <td>Oracle Cloud</td>
       <td>★★★☆☆</td>
     </tr>	
     <tr>
       <td>Java</td>
-      <td>★★☆☆☆</td>
+      <td>★★★☆☆</td>
     </tr>
     <tr>
-      <td>Angular</td>
+      <td>Vue.js</td>
       <td>★★★☆☆</td>
     </tr>
    <tr>
-      <td>CSS</td>
+      <td>Docker</td>
       <td>★★★★☆</td>
     </tr>
    <tr>
       <td>Bootstrap</td>
-      <td>★★★★☆</td>
+      <td>★★★★★</td>
     </tr>
     <tr>
-      <td>Figma</td>
-      <td>★★★★☆</td>
+      <td>IntelliJ IDEA</td>
+      <td>★★★☆☆</td>
     </tr>
   </table>
   
@@ -227,20 +227,24 @@ Possuíamos uma base de dados minimamente volumosa, e precisávamos calcular div
       <th width="300px">Descrição</th>
     </tr>
     <tr>
-      <td>Proatividade</td>
-      <td>Precisei estudar bastante sobre desenvolvimento web.</td>
+      <td>Responsabilidade</td>
+      <td>Assumi o cargo de Product Owner pela primeira vez.</td>
     </tr>
     <tr>
-      <td>Conhecimento</td>
-      <td>Precisei aprender a utilizar e aplicar o Scrum no projeto.</td>
+      <td>Visão de Negócio</td>
+      <td>Compreendi melhor os problemas e expectativas do cliente, aplicando o Product Backlog Building.</td>
     </tr>
     <tr>
       <td>Comunicação</td>
-      <td>Precisei me comunicar sobre a evolução das minhas tarefas.</td>
+      <td>Precisei me comunicar com o cliente com resiliência, e transmitir os requisitos para equipe dev.</td>
     </tr>
     <tr>
       <td>Organização</td>
-      <td>Precisei organizar a documentação e código no GitHub.</td>
+      <td>Precisei organizar as tarefas do time e definir as prioridades.</td>
+    </tr>
+    <tr>
+      <td>Planejamento</td>
+      <td>Precisei planejar o escopo do projeto e construir o Product Backlog de uma forma prática.</td>
     </tr>
   </table>
   
