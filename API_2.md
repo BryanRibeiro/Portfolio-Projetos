@@ -44,9 +44,215 @@ Através desse Dashboard, a diretoria da empresa poderá ter uma visão abrangen
   
   <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
   
-  <h3> Atribuições como Desenvolvedor Back-end e Front-end</h3>
+  <h3> Atribuições como Desenvolvedor Front-end</h3>
  
+ Na parte das tasks do projeto do Dashboard, como desenvolvedor front-end, eu contribuí não apenas com o código CSS, mas também com o desenvolvimento das tasks em geral, utilizando JavaScript e integrando-o ao HTML e CSS. Implementei funcionalidades interativas nas tasks, como adicionar, editar, excluir e marcar como concluídas. Eu trabalhei com o JavaScript, manipulando os elementos da página e respondendo aos eventos do usuário, como cliques em botões ou submissões de formulários.
  
+ <details>
+	
+<summary>Classes para as tasks do Dashboard (CSS)</summary>
+ 
+ ```css
+ 
+ body{
+    background: #ECEDF3;
+    margin: 0px;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    overflow: hidden;
+}
+h1{
+    color: #F8F9FC;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 35px;
+}
+.container-top {
+    height: 770px;
+    background: #25408F;
+}
+
+.bvoltar{
+    background: #ECEDF3;
+    border-radius: 20px;
+    border: 0px;
+    width: 80px;
+    height: 25px;
+    display: flex;
+    align-items:flex-end;
+    justify-content:space-between;
+    box-shadow: 2px 2px 2px #022f58;
+}
+
+.block1{
+    background: #F8F9FC;
+    border-radius: 15px;
+    box-shadow: 2px 2px 2px #c7c8ce;
+    justify-content: center;
+    min-height: 480px;
+    max-height: 480px;
+}
+
+.titulos{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #25408F;
+    border-radius: 25px;
+    color: white;
+    font-size: 28px;
+}
+
+.titulos2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #1CC88A;
+    border-radius: 25px;
+    color: white;
+    font-size: 28px;
+}
+
+.titulos3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #E74A3B;
+    border-radius: 25px;
+    color: white;
+    font-size: 28px;
+}
+
+
+
+
+.estilo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: white;
+    
+}
+
+.section-content{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-size: 14px;
+    min-height: 40px;
+    color: black;
+}
+
+.estilo2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-size: 18px;
+    color: black;
+    justify-content: center;
+    display: flex;
+    margin-top: 40px;
+
+}
+
+
+#style-8::-webkit-scrollbar-track
+{
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+	background-color: #F5F5F5;
+	border-radius: 10px;
+}
+
+#style-8::-webkit-scrollbar
+{
+	width: 10px;
+	background-color: #F5F5F5;
+}
+
+#style-8::-webkit-scrollbar-thumb
+{
+	border-radius: 10px;
+	background-image: -webkit-gradient(linear,
+									   left bottom,
+									   left top,
+									   color-stop(0.44, rgb(122,153,217)),
+									   color-stop(0.72, rgb(73,125,189)),
+									   color-stop(0.86, rgb(28,58,148)));
+}
+
+
+.search_icon{
+    color: #010308;
+    display: flex;
+}
+
+.search-input {
+    border-radius: 50px !important;
+}
+
+
+.form-outline{
+    display: flex;
+    border-radius: 12.5px;
+    background: #ECEDF3;
+    box-shadow: 2px 2px 2px #022f58;
+}
+
+.form-control{
+    border-radius: 12.5px;
+    border: 0px;
+    height: 25px;
+    width: 210px;
+    margin-left: 20px;
+    background: #ECEDF3;
+}
+ 
+ ```
+ 
+ </details>  
+ 
+Busquei dados das tasks em uma fonte de dados externa, como um banco de dados ou uma API, utilizando o JavaScript. Esses dados foram apresentados dinamicamente no Dashboard, permitindo a exibição atualizada das informações das tasks. Em termos de integração com o CSS, utilizei classes ou IDs dinâmicos no JavaScript para aplicar estilos específicos a determinados elementos ou alterar a aparência das tasks com base em seu estado (por exemplo, alterar a cor ou adicionar um indicador visual para tarefas concluídas).
+ 
+Trabalhei no desenvolvimento de um código JavaScript que permitiu tornar o Dashboard responsivo, ou seja, adaptável a diferentes tamanhos de tela e dispositivos. Utilizei técnicas como media queries para identificar o tamanho da tela do usuário e aplicar estilos adequados para cada tamanho, garantindo uma experiência visual agradável em dispositivos móveis, tablets e desktops. Fui responsável pela criação e funcionalidade do menu lateral das tasks. Utilizando JavaScript, implementei um menu interativo que se expandia e recolhia conforme a interação do usuário. Isso proporcionou uma navegação intuitiva e organizada entre as diferentes seções do Dashboard.
+ 
+ <details>
+	
+<summary>Responsividade e Menu Lateral (JS)</summary>
+ 
+ ```css
+ 
+ var ctx1 = document.getElementById('TaskGeral').getContext('2d');
+
+fetch('https://apigsw.herokuapp.com/data/task/')
+    .then(function (response) {
+        return response.json();
+    })
+    .then(function (dados) {
+        var chart = new Chart(ctx1, {
+            type: 'doughnut',
+            data: {
+
+                labels: ['Fechada', 'Aberta'],
+                datasets: [{
+                    label: 'Tasks',
+                    backgroundColor: [
+                        'rgba(231, 74, 59)',
+                        'rgba(28, 200, 138)'
+                    ],
+                    borderColor: [
+                        'rgba(231, 74, 59)',
+                        'rgba(28, 200, 138)'
+                    ],
+                    data: [(dados[1][1]), (dados[2][1])],
+                }]
+            },
+        });
+    });
+ 
+ ```
+ 
+ </details> 
+
+Ao clicar em um item do menu, eu também desenvolvi a lógica necessária para exibir as informações correspondentes às tasks relacionadas na área de conteúdo principal do Dashboard. Isso envolveu a manipulação do DOM (Document Object Model) para adicionar ou remover elementos dinamicamente e atualizar as informações exibidas conforme a seleção do usuário.
  
   <h3> Atribuições como Scrum Master</h3>
   <p align="justify" style="font-family:roboto;"> As atribuições como Scrum Master da equipe foram pertinentes a realizar um bom planejamento e organização das ações do grupo no decorrer das Sprints. No início do projeto foi realizada uma reunião para definir nosso principal meio de comunicação e a ferramenta para monitoramento de tarefas, assim decidimos utilizar, respectivamente, o Discord e GitHub Projects. Como Master da equipe, fiquei responsável por acompanhar e analisar o progresso do grupo nesses softwares, de modo a observar se todos os integrantes estavam participando das reuniões semanais e se apresentavam alguma dificuldade com a evolução das tarefas, logo atuando da melhor maneira de acordo com a situação.</p>
