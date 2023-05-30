@@ -55,10 +55,22 @@ Além disso, a centralização dos dados administrativos, financeiros e operacio
 <h3> Atribuições como Product Owner</h3>
   <p align="justify" style="font-family:roboto;"> Como Product Owner nesse projeto, minha principal responsabilidade foi alinhar o backlog de produto, as tarefas do time de desenvolvimento e garantir que todas as etapas do projeto estivessem em conformidade com os objetivos definidos. Trabalhei em estreita colaboração com as partes interessadas para entender suas necessidades e traduzi-las em requisitos claros e priorizados.
 
+ <details>
+      <summary>Product Backlog (Sprint-4)</summary>
+<h1 align="center"> <img src = "https://github.com/Doc-Docker/APISubiter/blob/main/docs/Imagens/Backlog_Produto_4.png" /></h1>
+ 
+ </details> 
+ 
 Para começar, realizei uma análise abrangente dos desafios enfrentados pela empresa em relação à sincronização dos dados administrativos, financeiros e operacionais. Com base nessa análise, elaborei o backlog de produto, identificando as funcionalidades e melhorias necessárias para resolver o problema central. Priorizei as histórias de usuário de acordo com o valor agregado e o impacto nos indicadores comerciais e financeiros.
 
- Durante o desenvolvimento, mantive uma comunicação constante com o time de desenvolvimento, esclarecendo dúvidas, fornecendo orientações e garantindo que todos estivessem alinhados com os objetivos do projeto. Realizei reuniões de planejamento de sprint para revisar e refinar o backlog, além de definir as metas para cada interação, em colaboração com a equipe de desenvolvimento para dividir as histórias de usuário em tarefas específicas e acionáveis. Isso permitiu que o time trabalhasse de forma mais eficiente, com um fluxo contínuo de trabalho e uma melhor compreensão das expectativas e prazos.</p>
-
+ <details>
+      <summary>Sprint Backlog</summary>
+<h1 align="center"> <img src = "https://github.com/Doc-Docker/APISubiter/blob/main/docs/Imagens/Backlog_Sprints3.PNG" /></h1>
+ 
+ </details> 
+ 
+Durante o desenvolvimento, mantive uma comunicação constante com o time de desenvolvimento, esclarecendo dúvidas, fornecendo orientações e garantindo que todos estivessem alinhados com os objetivos do projeto. Realizei reuniões de planejamento de sprint para revisar e refinar o backlog, além de definir as metas para cada interação, em colaboração com a equipe de desenvolvimento para dividir as histórias de usuário em tarefas específicas e acionáveis. Isso permitiu que o time trabalhasse de forma mais eficiente, com um fluxo contínuo de trabalho e uma melhor compreensão das expectativas e prazos.</p>
+ 
 <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>  
 
 Neste projeto pude aprimorar minha habilidade em trabalhar com o Oracle Cloud como banco de dados, adquirindo conhecimentos específicos dessa tecnologia. Também tive a oportunidade de aprofundar meus conhecimentos em Java e Spring Boot, utilizando essas ferramentas para implementar a lógica do back-end do sistema.
