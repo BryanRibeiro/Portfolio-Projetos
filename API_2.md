@@ -273,7 +273,7 @@ Ao clicar em um item do menu, eu também desenvolvi a lógica necessária para e
   
 Durante o desenvolvimento desse projeto de criação do Dashboard para a empresa GSW Soluções Integradas, pude adquirir diversos aprendizados significativos que contribuíram para o meu crescimento e desenvolvimento como desenvolvedor.
 
-Em primeiro lugar, esse projeto me proporcionou a oportunidade de aprofundar meus conhecimentos em visualização de dados e desenvolvimento de painéis de controle. Aprendi a selecionar e utilizar as ferramentas certas para apresentar as informações de forma clara e acessível, garantindo que a diretoria da empresa possa obter insights valiosos sobre o andamento dos projetos. Isso envolveu o uso de bibliotecas e frameworks especializados, bem como a compreensão de princípios de design visual e organização de dados.
+Este projeto me proporcionou a oportunidade de aprofundar meus conhecimentos em visualização de dados e desenvolvimento de painéis de controle. Aprendi a selecionar e utilizar as ferramentas certas para apresentar as informações de forma clara e acessível, garantindo que a diretoria da empresa possa obter insights valiosos sobre o andamento dos projetos. Isso envolveu o uso de bibliotecas e frameworks especializados, bem como a compreensão de princípios de design visual e organização de dados.
 
 Além disso, trabalhar com diferentes fontes de dados foi um desafio enriquecedor. Aprendi a integrar e consolidar informações provenientes de diversas fontes, como sistemas de gerenciamento de projetos, bases de dados internas e APIs externas. Compreender como manipular e transformar esses dados em um formato adequado para serem apresentados no Dashboard foi uma habilidade valiosa adquirida durante o projeto.
   
