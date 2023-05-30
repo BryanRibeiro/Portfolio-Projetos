@@ -116,9 +116,9 @@ Durante o desenvolvimento, mantive uma comunicação constante com o time de des
  
 <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>  
 
-Neste projeto pude aprimorar minha habilidade em trabalhar com o Oracle Cloud como banco de dados, adquirindo conhecimentos específicos dessa tecnologia. Também tive a oportunidade de aprofundar meus conhecimentos em Java e Spring Boot, utilizando essas ferramentas para implementar a lógica do back-end do sistema.
+Neste projeto pude aprimorar minha habilidade em trabalhar com o Oracle Cloud como banco de dados, adquirindo conhecimentos específicos dessa tecnologia. Aprendi sobre a configuração do ambiente, criação de instâncias, modelagem de dados e ajustes necessários para atender às necessidades do cliente.
 
-No front-end, desenvolvi minhas habilidades em HTML, JavaScript com Vue.js, CSS e Bootstrap, permitindo criar interfaces interativas e responsivas para o sistema de gerenciamento integrado. A combinação dessas tecnologias proporcionou uma experiência de usuário mais intuitiva e amigável.
+Ajudar na criação dos containers e no processo de implantação das imagens no Docker foi uma experiência valiosa. Compreendi como configurar e otimizar os ambientes de desenvolvimento e produção usando containers. Isso me permitiu compreender melhor os benefícios da containerização, como a portabilidade e a escalabilidade.
 
 Além disso, o projeto me ensinou a importância da organização e centralização dos dados, assim como a sincronização e integração de informações entre diferentes áreas de uma empresa. Compreendi a relevância de ter um sistema capaz de disponibilizar os dados de forma rápida e organizada, permitindo melhorias significativas no atendimento ao cliente e na análise dos indicadores comerciais e financeiros. Também aprendi a importância da comunicação clara, priorização baseada em valor, flexibilidade, empatia com os usuários e análise contínua como Product Owner.
 
