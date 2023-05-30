@@ -53,7 +53,11 @@ Além disso, a centralização dos dados administrativos, financeiros e operacio
 (texto)
   
 <h3> Atribuições como Product Owner</h3>
-  <p align="justify" style="font-family:roboto;"> (texto)</p>
+  <p align="justify" style="font-family:roboto;"> Como Product Owner nesse projeto, minha principal responsabilidade foi alinhar o backlog de produto, as tarefas do time de desenvolvimento e garantir que todas as etapas do projeto estivessem em conformidade com os objetivos definidos. Trabalhei em estreita colaboração com as partes interessadas para entender suas necessidades e traduzi-las em requisitos claros e priorizados.
+
+Para começar, realizei uma análise abrangente dos desafios enfrentados pela empresa em relação à sincronização dos dados administrativos, financeiros e operacionais. Com base nessa análise, elaborei o backlog de produto, identificando as funcionalidades e melhorias necessárias para resolver o problema central. Priorizei as histórias de usuário de acordo com o valor agregado e o impacto nos indicadores comerciais e financeiros.
+
+ Durante o desenvolvimento, mantive uma comunicação constante com o time de desenvolvimento, esclarecendo dúvidas, fornecendo orientações e garantindo que todos estivessem alinhados com os objetivos do projeto. Realizei reuniões de planejamento de sprint para revisar e refinar o backlog, além de definir as metas para cada interação, em colaboração com a equipe de desenvolvimento para dividir as histórias de usuário em tarefas específicas e acionáveis. Isso permitiu que o time trabalhasse de forma mais eficiente, com um fluxo contínuo de trabalho e uma melhor compreensão das expectativas e prazos.</p>
 
 <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>  
 
@@ -61,7 +65,7 @@ Neste projeto pude aprimorar minha habilidade em trabalhar com o Oracle Cloud co
 
 No front-end, desenvolvi minhas habilidades em HTML, JavaScript com Vue.js, CSS e Bootstrap, permitindo criar interfaces interativas e responsivas para o sistema de gerenciamento integrado. A combinação dessas tecnologias proporcionou uma experiência de usuário mais intuitiva e amigável.
 
-Além disso, o projeto me ensinou a importância da organização e centralização dos dados, assim como a sincronização e integração de informações entre diferentes áreas de uma empresa. Compreendi a relevância de ter um sistema capaz de disponibilizar os dados de forma rápida e organizada, permitindo melhorias significativas no atendimento ao cliente e na análise dos indicadores comerciais e financeiros.
+Além disso, o projeto me ensinou a importância da organização e centralização dos dados, assim como a sincronização e integração de informações entre diferentes áreas de uma empresa. Compreendi a relevância de ter um sistema capaz de disponibilizar os dados de forma rápida e organizada, permitindo melhorias significativas no atendimento ao cliente e na análise dos indicadores comerciais e financeiros. Também aprendi a importância da comunicação clara, priorização baseada em valor, flexibilidade, empatia com os usuários e análise contínua como Product Owner.
 
   <h3 align="center"> Hard Skills </h3>
   <table align="center">
