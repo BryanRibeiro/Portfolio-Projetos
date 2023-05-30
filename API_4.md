@@ -48,9 +48,52 @@ Além disso, a centralização dos dados administrativos, financeiros e operacio
   
   <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
   
-  <h3> Atribuições como Desenvolvedor Front-end</h3>
+  <h3> Atribuições como Desenvolvedor</h3>
 
-(texto)
+### ☁️ Oracle Cloud
+
+Tive um papel fundamental na criação da modelagem do banco de dados no Oracle Cloud, ajustando as tabelas conforme a necessidade do cliente. Ajustamos as tabelas conforme as necessidades do cliente, realizando modificações e refinamentos na estrutura do banco de dados. Isso envolveu a adição de novas colunas, a definição de índices para otimização de consultas e a criação de visões personalizadas para facilitar a interpretação dos dados pelos usuários.
+
+<details>
+      <summary>Modelo Lógico</summary>
+<h1 align="center"> <img src = "https://github.com/Doc-Docker/APISubiter/blob/main/docs/Imagens/modelagem_sprint3.jpg" /></h1>
+ 
+ </details> 
+
+A centralização dos dados administrativos, financeiros e operacionais proporcionou uma análise mais precisa dos indicadores comerciais e financeiros, facilitando a geração de relatórios e métricas atualizados em tempo real. Essa visão mais clara dos dados contribuiu significativamente para a interpretação dos dados e para a tomada de decisões estratégicas.
+
+<details>
+      <summary>Documentação das Tabelas</summary>
+<h1 align="center"> <img src = "https://github.com/Doc-Docker/APISubiter/blob/main/docs/Cria%C3%A7ao%20do%20Banco%20de%20dados%20Subiter.pdf" /></h1>
+ 
+ </details> 
+
+Em resumo, minha contribuição na criação da modelagem do banco de dados no Oracle Cloud e nos ajustes das tabelas foi essencial para o sucesso do projeto. Essas ações garantiram a organização e sincronização dos dados, permitindo uma análise mais precisa e auxiliando na tomada de decisões estratégicas da empresa.
+
+### 🐳 Docker
+
+Desempenhei um papel importante na criação dos containers e no processo de implantação das imagens no Docker para o front-end da aplicação. Comecei estudando as necessidades e requisitos técnicos do projeto, entendendo a arquitetura de cada componente do sistema. Com base nisso, trabalhei em conjunto com a equipe de desenvolvimento para definir a melhor estratégia de containerização.
+
+ <details>
+      <summary>Docker Front-end</summary>
+
+ ```docker
+ 
+FROM node:lts-alpine
+RUN npm install -g http-server
+WORKDIR /app
+COPY package*.json ./
+RUN npm install
+COPY . .
+RUN npm run build
+EXPOSE 4200
+CMD [ "http-server", "dist" ]
+ 
+ ```
+ 
+ </details> 
+
+No front-end, ajudei a criar o container Docker para a aplicação, garantindo que todos os recursos e dependências necessários estivessem configurados corretamente. Isso incluiu a seleção da imagem base apropriada, a configuração dos arquivos Dockerfile e o gerenciamento das variáveis de ambiente.
   
 <h3> Atribuições como Product Owner</h3>
   <p align="justify" style="font-family:roboto;"> Como Product Owner nesse projeto, minha principal responsabilidade foi alinhar o backlog de produto, as tarefas do time de desenvolvimento e garantir que todas as etapas do projeto estivessem em conformidade com os objetivos definidos. Trabalhei em estreita colaboração com as partes interessadas para entender suas necessidades e traduzi-las em requisitos claros e priorizados.
