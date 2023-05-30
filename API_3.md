@@ -172,7 +172,7 @@ Implementação da interface do carrinho de compras;</br>
  
    </details>
   
-Contudo, vale acrescentar que por ser o primeiro contato com uma empresa terceira no curso de Banco de Dados, o desafio foi diferente do projeto anterior pois deveríamos atender os requisitos necessários e ter uma comunicação ativa com o cliente a fim de produzir entregas de valores a cada etapa do processo, por isso ajudei a gerenciar a equipe utilizando a metodologia ágil Scrum.
+O desafio foi diferente do projeto anterior, pois deveríamos atender os requisitos necessários e ter uma comunicação ativa com o cliente a fim de produzir entregas de valores em cada etapa do processo, por isso ajudei a gerenciar a equipe utilizando a metodologia ágil Scrum.
 
 <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>  
 
