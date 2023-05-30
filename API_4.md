@@ -62,14 +62,6 @@ Tive um papel fundamental na criação da modelagem do banco de dados no Oracle 
 
 A centralização dos dados administrativos, financeiros e operacionais proporcionou uma análise mais precisa dos indicadores comerciais e financeiros, facilitando a geração de relatórios e métricas atualizados em tempo real. Essa visão mais clara dos dados contribuiu significativamente para a interpretação dos dados e para a tomada de decisões estratégicas.
 
-<details>
-      <summary>Documentação das Tabelas</summary>
-<h1 align="center"> <img src = "https://github.com/Doc-Docker/APISubiter/blob/main/docs/Cria%C3%A7ao%20do%20Banco%20de%20dados%20Subiter.pdf" /></h1>
- 
- </details> 
-
-Em resumo, minha contribuição na criação da modelagem do banco de dados no Oracle Cloud e nos ajustes das tabelas foi essencial para o sucesso do projeto. Essas ações garantiram a organização e sincronização dos dados, permitindo uma análise mais precisa e auxiliando na tomada de decisões estratégicas da empresa.
-
 ### 🐳 Docker
 
 Desempenhei um papel importante na criação dos containers e no processo de implantação das imagens no Docker para o front-end da aplicação. Comecei estudando as necessidades e requisitos técnicos do projeto, entendendo a arquitetura de cada componente do sistema. Com base nisso, trabalhei em conjunto com a equipe de desenvolvimento para definir a melhor estratégia de containerização.
