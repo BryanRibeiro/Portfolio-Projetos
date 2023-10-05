@@ -167,7 +167,7 @@ document.getElementById("loginForm").addEventListener("submit", function(event) 
 
 </details>  
  
-**Criação e Estilização de Interfaces:**
+Criação e Estilização de Interfaces:
 Desenvolvi as interfaces do usuário utilizando HTML, CSS e Bootstrap, seguindo as diretrizes de design fornecidas pelo Figma como referência.
 Ajudei a criar um layout responsivo que se adaptasse a diferentes dispositivos e tamanhos de tela. Isso permitiu que os usuários acessassem o site de qualquer dispositivo, como computadores, tablets e smartphones, proporcionando uma experiência consistente.
 Ao utilizar o Bootstrap, aproveitei os componentes e classes pré-definidos para criar rapidamente interfaces consistentes, economizando tempo e esforço.
