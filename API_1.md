@@ -1,4 +1,4 @@
-<html>
+tc<html>
 <body>
  <h1 align="center"> API 1º Semestre - 02/2020</h1>
 <a href="https://github.com/Grupo-1-2020-PI-FATEC-ADS/SOS-EDUCA"><img src="https://img.shields.io/badge/GitHub-Repositório Projeto-181717?style=for-the-badge&logo=github"></a>
@@ -53,7 +53,7 @@ Uma das principais características do site foi a facilidade de navegação e bu
   </li>
    <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">JavaScript</a>: É uma linguagem de programação versátil e poderosa, utilizada para adicionar interatividade, funcionalidades dinâmicas e comportamentos aos sites.</p></li>
   </li>
-  <li><a href="https://trello.com/https://trello.com">Trello</a>: Foi utilizado como ferramenta do método Scrum para distribuição das atividades do grupo e priorização das demandas. Possibilitando realizar o planejamento das sprints, sendo capaz de registrar o progresso da equipe e do projeto, facilitando o desenvolvimento e acompanhamento da realização de tarefas. </p></li>
+  <li><a href="https://trello.com/https://trello.com">Trello</a>: É uma ferramenta de gerenciamento de projetos baseada em quadros virtuais que permite organizar tarefas e colaborar em equipes de forma visual e intuitiva.</p></li>
   </li>
 
   </ul>
