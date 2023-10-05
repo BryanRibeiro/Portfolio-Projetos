@@ -69,7 +69,7 @@ Minha contribuição utilizando PHP permitiu a implementação da funcionalidade
 
 <details>
 	
-<summary>Manipulação dos dados com PHP</summary>
+<summary>Código em PHP - Manipulação dos dados</summary>
  
 > Inicialização de sessão: Com a linha "?php session_start(); ?", iniciei uma sessão PHP. Isso permite que armazene e acesse variáveis de sessão, que podem ser usadas para manter dados específicos do usuário entre as requisições.
 
@@ -134,7 +134,7 @@ Realizei a validação do e-mail e senha fornecidos. Verifiquei se ambos os camp
 
 <details>
 	
-<summary>Validação do Formulário de Login</summary>
+<summary>Código em JavaScript - Validação do Formulário de Login</summary>
  
 ```javascript
 
@@ -174,7 +174,7 @@ Ao utilizar o Bootstrap, aproveitei os componentes e classes pré-definidos para
 
 <details>
 	
-<summary>Estilização do formulário de Login</summary>
+<summary>Código em CSS - Estilização do formulário de Login</summary>
 	
 ```css
 
