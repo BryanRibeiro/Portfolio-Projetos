@@ -52,7 +52,7 @@ Através desse Dashboard, a diretoria da empresa poderá ter uma visão abrangen
  
  <details>
 	
-<summary>Classes para as tasks do Dashboard (CSS)</summary>
+<summary>Código em CSS - Classes para as tasks do Dashboard</summary>
  
  ```css
  
@@ -218,9 +218,9 @@ Trabalhei no desenvolvimento de um código JavaScript que permitiu tornar o Dash
  
  <details>
 	
-<summary>Responsividade e Menu Lateral (JS)</summary>
+<summary>Código em JavaScript - Responsividade e Menu Lateral</summary>
  
- ```css
+ ```javascript
  
  var ctx1 = document.getElementById('TaskGeral').getContext('2d');
 
