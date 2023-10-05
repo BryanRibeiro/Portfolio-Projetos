@@ -69,7 +69,7 @@ A centralização dos dados administrativos, financeiros e operacionais proporci
 Desempenhei um papel importante na criação dos containers e no processo de implantação das imagens no Docker para o front-end da aplicação. Comecei estudando as necessidades e requisitos técnicos do projeto, entendendo a arquitetura de cada componente do sistema. Com base nisso, trabalhei em conjunto com a equipe de desenvolvimento para definir a melhor estratégia de containerização.
 
  <details>
-      <summary>Docker Front-end</summary>
+      <summary>Código em Dockerfile - Front-end</summary>
 
  ```docker
  
@@ -91,12 +91,6 @@ No front-end, ajudei a criar o container Docker para a aplicação, garantindo q
   
 <h3> Atribuições como Product Owner</h3>
   <p align="justify" style="font-family:roboto;"> Como Product Owner nesse projeto, minha principal responsabilidade foi alinhar o backlog de produto, as tarefas do time de desenvolvimento e garantir que todas as etapas do projeto estivessem em conformidade com os objetivos definidos. Trabalhei em estreita colaboração com as partes interessadas para entender suas necessidades e traduzi-las em requisitos claros e priorizados.
-
- <details>
-      <summary>Product Backlog (Sprint-4)</summary>
-<h1 align="center"> <img src = "https://github.com/Doc-Docker/APISubiter/blob/main/docs/Imagens/Backlog_Produto_4.png" /></h1>
- 
- </details> 
  
 Para começar, realizei uma análise abrangente dos desafios enfrentados pela empresa em relação à sincronização dos dados administrativos, financeiros e operacionais. Com base nessa análise, elaborei o backlog de produto, identificando as funcionalidades e melhorias necessárias para resolver o problema central. Priorizei as histórias de usuário de acordo com o valor agregado e o impacto nos indicadores comerciais e financeiros.
 
