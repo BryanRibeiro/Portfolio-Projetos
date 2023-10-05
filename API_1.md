@@ -130,7 +130,7 @@ Minha contribuição utilizando PHP permitiu a implementação da funcionalidade
 
 </details>  
 
-Realizei a validação do e-mail e senha fornecidos. Verifiquei se ambos os campos foram preenchidos, garantindo que o usuário tenha fornecido as informações necessárias para efetuar o login. Após a validação, utilizei a função fetch para fazer uma chamada assíncrona para o backend, utilizando o método POST. Enviei os dados do login em formato JSON, incluindo o e-mail e a senha. No backend, em um arquivo PHP chamado "login.php", os dados recebidos foram processados e a autenticação do usuário foi verificada. A resposta do backend foi tratada utilizando os métodos then e catch. Em caso de sucesso, os dados retornados pelo backend foram processados e tratados de acordo. Em caso de erro, qualquer exceção ou falha na chamada foi capturada e tratada adequadamente.
+Realizei a validação do e-mail e senha fornecidos. Verifiquei se ambos os campos foram preenchidos, garantindo que o usuário tenha fornecido as informações necessárias para efetuar o login. Após a validação, utilizei a função fetch para fazer uma chamada assíncrona para o back-end, utilizando o método POST. Enviei os dados do login em formato JSON, incluindo o e-mail e a senha. No back-end, em um arquivo PHP chamado "login.php", os dados recebidos foram processados e a autenticação do usuário foi verificada. A resposta do back-end foi tratada utilizando os métodos then e catch. Em caso de sucesso, os dados retornados pelo back-end foram processados e tratados de acordo. Em caso de erro, qualquer exceção ou falha na chamada foi capturada e tratada adequadamente.
 
 <details>
 	
@@ -145,7 +145,7 @@ document.getElementById("loginForm").addEventListener("submit", function(event) 
   
   // Realizar validação do email e senha
   if (email && password) {
-    // Fazer chamada assíncrona para o backend em PHP
+    // Fazer chamada assíncrona para o back-end em PHP
     fetch("login.php", {
       method: "POST",
       body: JSON.stringify({ email: email, password: password }),
@@ -155,7 +155,7 @@ document.getElementById("loginForm").addEventListener("submit", function(event) 
     })
     .then(response => response.json())
     .then(data => {
-      // Tratar a resposta do backend
+      // Tratar a resposta do back-end
     })
     .catch(error => {
       // Tratar erros
