@@ -14,7 +14,7 @@
    <tr>
     <td align="center"><a href="https://www.linkedin.com/in/bryanrribeiro/"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/70216549?v=4" width="200px;" alt=""/><br/><b>Bryan Romero Ribeiro</b></a>
       <br/>
-      Sales Analyst / Product Owner
+      Front-end Developer / Product Owner
      </td>
    </tr>
   </table>
@@ -26,7 +26,7 @@
   <li>Linguagens de programação:
   <ul>
     <li><code>Java</code> na criação de API's (Application Programming Interface) Rest utilizando o Framework <code>SpringBoot</code>;</li>
-    <li><code>Python</code> para automação de processos e manipulação de documentos no Banco de DadosL;</li>
+    <li><code>Python</code> para automação de processos e manipulação de documentos;</li>
     <li><code>SQL</code> para modelagem, criação e manipulação de Banco de Dados <code>Oracle</code>, <code>MySQL</code> e <code>SQL Server</code>.</li>
     </ul></li>
   <br>
