@@ -65,7 +65,7 @@ Participei de forma efetiva da integração do Front-End com Back-End, criando a
 Trecho do código responsável de receber o retorno do back-end, da explicação citada acima.
    
  <details>
-      <summary>Informações código Front-End</summary>
+      <summary>Código em JavaScript - Informações</summary>
  
    ```js
    
@@ -100,7 +100,7 @@ Implementação das telas de cadastro de produtos; </br>
    Desenvolvimento do formulário de cadastro de produtos, criação da classe de services para envio da requisição POST com objeto do tipo produto.
    
    <details>
-      <summary>Código da função na classe service para criação e atualização de produtos </summary>
+      <summary>Código em TypeScript - Função na classe service para criação e atualização de produtos </summary>
       
           onSubmit(){
 
@@ -138,7 +138,7 @@ Implementação das telas de cadastro de produtos; </br>
 Implementação da interface do carrinho de compras;</br>
    Desenvolvimento de uma tela para mostrar todos os produtos selecionados pelo usuário no sistema
    <details>
-      <summary>Código html para exibição dos produtos </summary>
+      <summary>Código em HTML - Exibição dos produtos </summary>
       
  ```html
           <table class="table table-condensed table-hover">
