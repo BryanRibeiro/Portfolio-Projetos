@@ -1,7 +1,9 @@
 <html>
 <body>
  <h1 align="center"> API 2º Semestre - 01/2021</h1>
+<h1 align="center"> 
 <a href="https://github.com/Time-1-ADS/ProjetoGSW/tree/sprints"><img src="https://img.shields.io/badge/GitHub-Repositório Projeto-181717?style=for-the-badge&logo=github"></a>
+</h1>
  
  <h2> Parceiro Acadêmico: <a href="https://pqtec.org.br/empresas/gsw/">GSW Soluções Integradas</a></h2>
  
