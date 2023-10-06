@@ -11,13 +11,7 @@
   
   <h2 style="font-family:roboto;"> Resumo do Projeto :clipboard:</h2>
   
-  <p align="justify" style="font-family:roboto;"> O projeto tinha como objetivo solucionar o desafio de sincronização dos dados administrativos, financeiros e operacionais relacionados aos serviços prestados pela empresa. Na época, a falta de organização desses dados resultava em lentidão para atender chamados e dificuldades na interpretação dos indicadores comerciais e financeiros.
-
-Para resolver essa questão, foi necessário implementar um sistema de gerenciamento integrado que centralizasse e organizasse todas as informações relevantes. Isso envolveu a criação de um banco de dados robusto e escalável, capaz de armazenar e gerenciar dados de diferentes áreas da empresa, como atendimento ao cliente, vendas, finanças e operações.
-
-A implementação do sistema de gerenciamento integrado proporcionou vários benefícios. Em primeiro lugar, a sincronização dos dados permitiu um atendimento mais ágil aos chamados, pois as informações ficaram disponíveis de forma organizada e de fácil acesso para os colaboradores responsáveis por resolver os problemas dos clientes.
-
-Além disso, a centralização dos dados administrativos, financeiros e operacionais possibilitou uma análise mais precisa dos indicadores comerciais e financeiros da empresa. Foi possível gerar relatórios e métricas atualizados em tempo real, facilitando a interpretação dos dados e auxiliando na tomada de decisões estratégicas.
+  <p align="justify" style="font-family:roboto;"> O projeto tem como objetivo solucionar o desafio de sincronização dos dados administrativos, financeiros e operacionais relacionados aos serviços prestados pela empresa. A falta de organização desses dados resulta em lentidão para atender chamados e dificuldades na interpretação dos indicadores comerciais e financeiros. Implementamos um sistema de gerenciamento integrado que centralizou informações relevantes por meio de um banco de dados robusto. Isso permitiu uma análise precisa dos indicadores comerciais e financeiros, facilitando a tomada de decisões estratégicas.
 
 <h2 style="font-family:roboto;"> Tecnologias Adotadas :computer:</h2>
  
