@@ -11,9 +11,7 @@
   
   <h2 style="font-family:roboto;"> Resumo do Projeto :clipboard:</h2>
   
-  <p align="justify" style="font-family:roboto;"> O projeto tem como objetivo principal desenvolver um Dashboard para a empresa GSW Soluções Integradas, que permitirá a visualização dos status e acompanhamentos dos projetos em andamento. O Dashboard será alimentado por diferentes fontes de dados, agregando informações relevantes e apresentando-as de forma clara e acessível.
-
-Através desse Dashboard, a diretoria da empresa poderá ter uma visão abrangente e atualizada do andamento dos projetos, facilitando a análise e tomada de decisões estratégicas. Será possível monitorar o progresso de cada projeto, identificar eventuais desvios, analisar o desempenho de equipes e recursos envolvidos, além de obter métricas e indicadores-chave para avaliar a eficiência e o sucesso dos projetos em diferentes áreas.
+  <p align="justify" style="font-family:roboto;"> O projeto tem como objetivo principal desenvolver um Dashboard para a empresa GSW Soluções Integradas, que permitirá a visualização dos status e acompanhamentos dos projetos em andamento. O Dashboard será alimentado por diferentes fontes de dados, agregando informações relevantes e apresentando-as de forma clara e acessível. Através desse Dashboard, a diretoria da empresa poderá ter uma visão abrangente e atualizada do andamento dos projetos, facilitando a análise e tomada de decisões estratégicas. Será possível monitorar o progresso de cada projeto, identificar eventuais desvios, analisar o desempenho de equipes e recursos envolvidos, além de obter métricas e indicadores-chave para avaliar a eficiência e o sucesso dos projetos em diferentes áreas.
 
  <h2 style="font-family:roboto;"> Tecnologias Adotadas :computer:</h2>
  
