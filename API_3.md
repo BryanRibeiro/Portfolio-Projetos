@@ -13,14 +13,6 @@
   
   <p align="justify" style="font-family:roboto;"> O projeto visa resolver o problema da empresa MidAll relacionado à criação de promoções em seu e-commerce. A solução proposta foi desenvolver um mini motor de regras que permitiu a flexibilidade e rápida atualização das mecânicas das promoções no sistema. Isso foi feito por meio de uma interface onde as regras das promoções poderiam ser cadastradas e aplicadas automaticamente quando os itens fossem adicionados ao carrinho de compras. Essa abordagem ofereceu agilidade na configuração e adaptação das promoções, proporcionando uma experiência personalizada aos clientes.
 
-**O problema é:** O cliente tem um e-commerce, porém necessita de um sistema de compras inteligente que gere promoções com base nas vendas;
-
-**Que afeta** as compras feitas pelos clientes no site;
-
-**O impacto disto é** gerar mais vendas e lucros para a empresa, para que o cliente final fique satisfeito com suas promoções;
-
-**A solução seria** O desenvolvimento de uma aplicação web que irá automatizar este processo no ato da compra, gerando promoções específicas.
-
 <h2 style="font-family:roboto;"> Tecnologias Adotadas :computer:</h2>
  
  <div style="display: inline_block"><br> 
