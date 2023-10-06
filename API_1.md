@@ -13,21 +13,6 @@
   
   <p align="justify" style="font-family:roboto;"> O projeto consiste na criação de um site de comércio eletrônico (E-commerce) voltado para materiais didáticos. O objetivo principal foi facilitar o acesso e fornecer recursos de qualidade para professores e alunos, com o intuito de apoiar seus estudos e aprimorar o processo de aprendizagem. O site oferece uma ampla variedade de materiais didáticos, abrangendo diversas disciplinas e níveis educacionais. Isso inclui livros, apostilas, e-books, vídeos educativos, planos de aula, jogos educativos, entre outros recursos relevantes para auxiliar tanto os educadores quanto os estudantes.
 Uma das principais características do site foi a facilidade de navegação e busca, permitindo que os usuários encontrem rapidamente o conteúdo desejado. Além disso, fornecer recursos de filtragem e classificação, permitindo que os usuários refinem suas pesquisas com base em critérios específicos, como disciplina, nível de ensino, autor, editora, entre outros.
-   
-  <p align="justify" style="font-family:roboto;"> As funcionalidades desenvolvidas no site foram: 
- </p>
-  <ul>
-<li>Login/Cadastro de usuário;</li>
-<li>Área do Administrador para análise das vendas;</li>
-<li>Área do Cliente com acompanhamento das compras;</li>
-<li>Carrinho de Compras;</li>
-<li>Saldo de Créditos;</li>
-<li>Relatório de Vendas;</li>
-<li>Pagamento via Cartão;</li>
-<li>Pagamento via Boleto;</li>
-<li>Acessibilidade (Libras).</li>
-  </ul>
- </p>
  
  <h2 style="font-family:roboto;"> Tecnologias Adotadas :computer:</h2>
  
