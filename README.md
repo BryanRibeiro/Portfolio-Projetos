@@ -6,9 +6,9 @@
   
   <h2> Autor :necktie: </h2>
   
-  <p align="justify" style="font-family:roboto;"> Meu nome é Bryan Ribeiro, tenho 21 anos e estou cursando o 5º semestre de Banco de dados. Sou formado no Serviço de Nacional de Aprendizagem pelo <a href="https://www.sp.senac.br/senac-sao-jose-dos-campos">Centro Universitário Senac</a>. Após a conclusão, ingressei na <a href="https://fatecsjc-prd.azurewebsites.net/">FATEC São José dos Campos - Prof. Jessen Vidal</a> no 2º Semestre de 2020.</p>
-  <p align="justify" style="font-family:roboto;"> Durante a realização do curso adquiri diversos conhecimentos sobre tecnologias, metodologias, ferramentas e boas práticas de desenvolvimento. Com a Aprendizagem por Projetos Integrados, tive a oportunidade de colocar em prática os conteúdos estudados em sala de aula e elaborar soluções para problemas reais do mercado de trabalho, tendo como clientes empresas reais parceiras da faculdade. </p>
-  <p align="justify" style="font-family:roboto;"> Atualmente sou Analista Júnior na <a href="https://www.cebrace.com.br/">Cebrace</a>, utilizando tecnologias como SAP ERP, Qlikview, Power BI, Sales Force, agregando valor ao negócio através de oportunidades e melhorias contínuas.</p>
+  <p align="justify" style="font-family:roboto;"> Meu nome é Bryan Ribeiro, tenho 21 anos e estou cursando o 6º semestre de Banco de dados na <a href="https://fatecsjc-prd.azurewebsites.net/">FATEC São José dos Campos - Prof. Jessen Vidal</a> onde ingressei no 2º Semestre de 2020. Sou formado no Serviço de Nacional de Aprendizagem pelo <a href="https://www.sp.senac.br/senac-sao-jose-dos-campos">Centro Universitário Senac</a>.</p>
+  <p align="justify" style="font-family:roboto;"> Durante a realização do curso na Fatec, adquiri diversos conhecimentos sobre tecnologias, metodologias, ferramentas e boas práticas de desenvolvimento. Com a Aprendizagem por Projetos Integrados, tive a oportunidade de colocar em prática os conteúdos estudados em sala de aula e elaborar soluções para problemas reais do mercado de trabalho, tendo como clientes empresas reais parceiras da faculdade. </p>
+  <p align="justify" style="font-family:roboto;"> Atualmente sou Analista Júnior na <a href="https://www.cebrace.com.br/">Cebrace</a>, utilizando tecnologias como SAP ERP, Qlikview, MySQL, Power BI, Sales Force, agregando valor ao negócio através de oportunidades e melhorias contínuas.</p>
   
   <table align="center">
    <tr>
