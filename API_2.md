@@ -29,7 +29,7 @@
   <ul>
   <li><a href="https://www.mysql.com/">PostgreSQL</a>: O PostgreSQL é um sistema de gerenciamento de banco de dados relacional de código aberto, conhecido por sua robustez, confiabilidade e suporte avançado a recursos como transações ACID, replicação e escalabilidade horizontal.</p></li>
   </li>	  
-  <li><a href="https://html.spec.whatwg.org/multipage/">Python</a>: Python é uma linguagem de programação de alto nível, interpretada e de propósito geral, conhecida por sua simplicidade, legibilidade e ampla aplicabilidade em diferentes domínios, desde desenvolvimento web até análise de dados.</p></li>
+  <li><a href="https://www.python.org/">Python</a>: Python é uma linguagem de programação de alto nível, interpretada e de propósito geral, conhecida por sua simplicidade, legibilidade e ampla aplicabilidade em diferentes domínios, desde desenvolvimento web até análise de dados.</p></li>
   </li>
    <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">JavaScript</a>: É uma linguagem de programação versátil e poderosa, utilizada para adicionar interatividade, funcionalidades dinâmicas e comportamentos aos sites.</p></li>
   </li>
