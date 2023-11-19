@@ -182,34 +182,42 @@ Possuíamos uma base de dados minimamente volumosa, e precisávamos calcular div
     <tr>
       <th width="300px">Tecnologia/Metodologia</th>
       <th width="300px">Classificação</th>
+      <th width="300px">Escala de Aprendizado</th>
     </tr>
     <tr>
       <td>Metodologia Ágil Scrum</td>
-      <td>★★★★☆</td>
+      <td>★★★★★</td>
+      <td>Sei fazer com autonomia</td>
     </tr>
     <tr>
       <td>Microsoft SQL Server</td>
       <td>★★★☆☆</td>
+      <td>Entendi</td>
     </tr>	
     <tr>
       <td>Java</td>
       <td>★★☆☆☆</td>
+      <td>Já ouvi falar</td>
     </tr>
     <tr>
       <td>Angular</td>
       <td>★★★☆☆</td>
+      <td>Entendi</td>
     </tr>
    <tr>
       <td>CSS</td>
-      <td>★★★★☆</td>
+      <td>★★★★★</td>
+      <td>Sei fazer com autonomia</td>
     </tr>
    <tr>
       <td>Bootstrap</td>
       <td>★★★★☆</td>
+      <td>Sei fazer com ajuda</td>
     </tr>
     <tr>
       <td>Figma</td>
       <td>★★★★☆</td>
+      <td>Sei fazer com ajuda</td>
     </tr>
   </table>
   
