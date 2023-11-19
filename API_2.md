@@ -331,18 +331,26 @@ Além disso, trabalhar com diferentes fontes de dados foi um desafio enriquecedo
       <td>Responsabilidade</td>
       <td>Assumi o cargo de Scrum Master pela primeira vez.</td>
     </tr>
-    <tr>
-      <td>Planejamento</td>
-      <td>Precisei quebrar as tarefas das SPRINT's, colocando datas limites e acompanhando o desenvolvimento.</td>
-    </tr>
-    <tr>
-      <td>Comunicação</td>
-      <td>Precisei me comunicar com a equipe para saber a evolução das tarefas nas SPRINT's.</td>
-    </tr>
-    <tr>
-      <td>Organização</td>
-      <td>Precisei organizar a documentação e código no GitHub.</td>
-    </tr>
+<tr>
+  <td>Liderança Servidora</td>
+  <td>Desenvolvi habilidades de liderança servidora, facilitando o sucesso da equipe e removendo obstáculos.</td>
+</tr>
+<tr>
+  <td>Facilitação de Eventos</td>
+  <td>Aprimorei minhas técnicas de facilitação, garantindo a eficácia dos eventos do Scrum, como Daily Standups e Retrospectives.</td>
+</tr>
+<tr>
+  <td>Resolução de Conflitos</td>
+  <td>Lidei com conflitos de equipe de forma proativa, promovendo um ambiente colaborativo e positivo.</td>
+</tr>
+<tr>
+  <td>Melhoria Contínua</td>
+  <td>Implementei práticas para aprimorar continuamente os processos e a eficácia do time, baseando-me em retrospectivas.</td>
+</tr>
+<tr>
+  <td>Coaching</td>
+  <td>Desenvolvi habilidades de coaching para apoiar o crescimento individual dos membros da equipe.</td>
+</tr>
   </table>
   
 ---
