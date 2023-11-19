@@ -286,8 +286,8 @@ Além disso, trabalhar com diferentes fontes de dados foi um desafio enriquecedo
     </tr>
     <tr>
       <td>Metodologia Scrum - Scrum Master</td>
-      <td>★★★★★</td>
-	<td>Sei fazer com autonomia</td>
+      <td>★★★★☆</td>
+	<td>Sei fazer com ajuda</td>
     </tr>
     <tr>
       <td>PostgreSQL</td>
