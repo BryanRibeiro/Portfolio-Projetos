@@ -79,37 +79,32 @@ Durante o desenvolvimento, mantive uma comunicação constante com o time de des
       <td>Sei fazer com autonomia</td>
     </tr>
     <tr>
-      <td>Microsoft SQL Server</td>
-      <td>★★★☆☆</td>
-      <td>Entendi</td>
+      <td>MySQL</td>
+      <td>★★★★☆</td>
+      <td>Sei fazer com ajuda</td>
     </tr>	
+    <tr>
+      <td>MongoDB</td>
+      <td>★★★★☆</td>
+      <td>Sei fazer com ajuda</td>
+    </tr>
     <tr>
       <td>Python</td>
       <td>★★★★☆</td>
       <td>Sei fazer com ajuda</td>
     </tr>
-    <tr>
-      <td>Vue.js</td>
-      <td>★★★★☆</td>
-      <td>Sei fazer com ajuda</td>
-    </tr>
    <tr>
-      <td>HTML</td>
+      <td>React</td>
       <td>★★★★★</td>
       <td>Sei fazer com autonomia</td>
     </tr>
    <tr>
-      <td>JavaScript</td>
-      <td>★★★★★</td>
-      <td>Sei fazer com autonomia</td>
-    </tr>
-    <tr>
       <td>Docker</td>
       <td>★★★★☆</td>
       <td>Sei fazer com ajuda</td>
     </tr>
-      <tr>
-      <td>Figma</td>
+    <tr>
+      <td>GIT</td>
       <td>★★★★★</td>
       <td>Sei fazer com autonomia</td>
     </tr>
