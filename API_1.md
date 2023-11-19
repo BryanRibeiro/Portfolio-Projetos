@@ -215,34 +215,42 @@ Outro aspecto importante foi o foco na usabilidade e experiência do usuário. A
     <tr>
       <th width="300px">Tecnologia/Metodologia</th>
       <th width="300px">Classificação</th>
+      <th width="300px">Escala de Aprendizado</th>
     </tr>
     <tr>
       <td>Metodologia Ágil Scrum</td>
       <td>★★☆☆☆</td>
+	<td>Já ouvi falar</td>
     </tr>
     <tr>
       <td>MySQL</td>
       <td>★★★☆☆</td>
+	<td>Entendi</td>
     </tr>	
     <tr>
       <td>HTML</td>
       <td>★★★★☆</td>
+	<td>Sei fazer com ajuda</td>
     </tr>
     <tr>
       <td>CSS</td>
       <td>★★★★☆</td>
+	<td>Sei fazer com ajuda</td>
     </tr>
    <tr>
       <td>PHP</td>
       <td>★★★☆☆</td>
+	<td>Sei fazer com ajuda</td>
     </tr>
    <tr>
       <td>JavaScript</td>
       <td>★★☆☆☆</td>
+	<td>Já ouvi falar</td>
     </tr>
     <tr>
       <td>GIT</td>
       <td>★★★☆☆</td>
+	<td>Sei fazer com ajuda</td>
     </tr>
   </table>
   
