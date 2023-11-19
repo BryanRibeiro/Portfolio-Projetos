@@ -227,22 +227,26 @@ Possuíamos uma base de dados minimamente volumosa, e precisávamos calcular div
       <th width="300px">Habilidade</th>
       <th width="300px">Descrição</th>
     </tr>
-    <tr>
-      <td>Resiliência</td>
-      <td>Precisei ser resiliente para superar alguns problemas internos na equipe e entregar uma solução com valor para o cliente.</td>
-    </tr>
-    <tr>
-      <td>Conhecimento</td>
-      <td>Precisei aprender a utilizar e aplicar o Scrum no projeto.</td>
-    </tr>
-    <tr>
-      <td>Comunicação</td>
-      <td>Precisei me comunicar sobre a evolução das minhas tarefas.</td>
-    </tr>
-    <tr>
-      <td>Organização</td>
-      <td>Precisei organizar a documentação e código no GitHub.</td>
-    </tr>
+<tr>
+  <td>Tecnologias Emergentes</td>
+  <td>Explorei e aprendi novas tecnologias front-end, mantendo-me atualizado com as tendências do setor.</td>
+</tr>
+<tr>
+  <td>Responsividade</td>
+  <td>Desenvolvi interfaces responsivas, garantindo uma experiência consistente em diferentes dispositivos e tamanhos de tela.</td>
+</tr>
+<tr>
+  <td>Otimização de Desempenho</td>
+  <td>Otimizei o desempenho das aplicações, implementando práticas como lazy loading e minimização de recursos.</td>
+</tr>
+<tr>
+  <td>Integração com API</td>
+  <td>Integrei interfaces front-end com APIs, garantindo uma comunicação eficiente entre o front-end e o back-end.</td>
+</tr>
+<tr>
+  <td>Acessibilidade</td>
+  <td>Adotei práticas de desenvolvimento acessível, garantindo que as aplicações sejam utilizáveis por todas as pessoas, independentemente de suas habilidades.</td>
+</tr>
   </table>
   
 ---
