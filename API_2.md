@@ -282,34 +282,42 @@ Além disso, trabalhar com diferentes fontes de dados foi um desafio enriquecedo
     <tr>
       <th width="300px">Tecnologia/Metodologia</th>
       <th width="300px">Classificação</th>
+      <th width="300px">Escala de Aprendizado</th>
     </tr>
     <tr>
       <td>Metodologia Scrum - Scrum Master</td>
-      <td>★★★★☆</td>
+      <td>★★★★★</td>
+	<td>Sei fazer com autonomia</td>
     </tr>
     <tr>
       <td>PostgreSQL</td>
       <td>★★★☆☆</td>
+	<td>Entendi</td>
     </tr>	
     <tr>
       <td>Python</td>
       <td>★★★☆☆</td>
+	<td>Entendi</td>
     </tr>
     <tr>
       <td>JavaScript</td>
       <td>★★★☆☆</td>
+	<td>Entendi</td>
     </tr>
    <tr>
       <td>HTML</td>
       <td>★★★★★</td>
+	<td>Sei fazer com autonomia</td>
     </tr>
    <tr>
       <td>CSS</td>
       <td>★★★★☆</td>
+	<td>Sei fazer com ajuda</td>
     </tr>
     <tr>
       <td>Visual Studio Code</td>
       <td>★★★★☆</td>
+	<td>Sei fazer com ajuda</td>
     </tr>
   </table>
   
