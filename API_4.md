@@ -109,34 +109,42 @@ Além disso, o projeto me ensinou a importância da organização e centralizaç
     <tr>
       <th width="300px">Tecnologia/Metodologia</th>
       <th width="300px">Classificação</th>
+      <th width="300px">Escala de Aprendizado</th>
     </tr>
     <tr>
       <td>Metodologia Scrum - Product Owner</td>
       <td>★★★★☆</td>
+      <td>Sei fazer com ajuda</td>
     </tr>
     <tr>
       <td>Oracle Cloud</td>
       <td>★★★☆☆</td>
+      <td>Entendi</td>
     </tr>	
     <tr>
       <td>Java</td>
       <td>★★★☆☆</td>
+      <td>Entendi</td>
     </tr>
     <tr>
       <td>Vue.js</td>
       <td>★★★☆☆</td>
+      <td>Entendi</td>
     </tr>
    <tr>
       <td>Docker</td>
       <td>★★★★☆</td>
+      <td>Sei fazer com ajuda</td>
     </tr>
    <tr>
       <td>Bootstrap</td>
       <td>★★★★★</td>
+      <td>Sei fazer com autonomia</td>
     </tr>
     <tr>
       <td>IntelliJ IDEA</td>
       <td>★★★☆☆</td>
+      <td>Entendi</td>
     </tr>
   </table>
   
