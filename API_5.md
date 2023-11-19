@@ -124,26 +124,26 @@ Durante o desenvolvimento, mantive uma comunicação constante com o time de des
       <th width="300px">Habilidade</th>
       <th width="300px">Descrição</th>
     </tr>
-    <tr>
-      <td>Responsabilidade</td>
-      <td>Assumi o cargo de Product Owner pela primeira vez.</td>
-    </tr>
-    <tr>
-      <td>Visão de Negócio</td>
-      <td>Compreendi melhor os problemas e expectativas do cliente, aplicando o Product Backlog Building.</td>
-    </tr>
-    <tr>
-      <td>Comunicação</td>
-      <td>Precisei me comunicar com o cliente com resiliência, e transmitir os requisitos para equipe dev.</td>
-    </tr>
-    <tr>
-      <td>Organização</td>
-      <td>Precisei organizar as tarefas do time e definir as prioridades.</td>
-    </tr>
-    <tr>
-      <td>Planejamento</td>
-      <td>Precisei planejar o escopo do projeto e construir o Product Backlog de uma forma prática.</td>
-    </tr>
+<tr>
+  <td>Aprendizado</td>
+  <td>Adquiri um conhecimento maior ao assumir o papel de Product Owner pela segunda vez.</td>
+</tr>
+<tr>
+  <td>Desenvolvimento de Equipe</td>
+  <td>Trabalhei na melhoria da colaboração da equipe, utilizando práticas como Sprint Planning e Sprint Review.</td>
+</tr>
+<tr>
+  <td>Feedback</td>
+  <td>Aprimorei minhas habilidades de fornecer e receber feedback, contribuindo para a evolução contínua do produto.</td>
+</tr>
+<tr>
+  <td>Gestão de Riscos</td>
+  <td>Lidei com a identificação e mitigação de riscos, aplicando estratégias para garantir o sucesso do projeto.</td>
+</tr>
+<tr>
+  <td>Adaptação</td>
+  <td>Ajustei o planejamento do projeto conforme as mudanças nas necessidades do cliente, utilizando a abordagem ágil.</td>
+</tr>
   </table>
   
 ---
