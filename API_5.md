@@ -49,7 +49,114 @@
 
   <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
   
-  <h3> Atribuições como Desenvolvedor</h3>
+  <h3> Atribuições como Desenvolvedor Front-End</h3>
+
+Implementei o código abaixo, criando uma funcionalidade de listagem de arquivos com histórico de transferência para o Amazon S3. Inicialmente, importei os componentes essenciais, como DataTable, Column e Cabecalho do PrimeVue, além do módulo ListagemArquivos, responsável por obter os dados da transferência.
+
+Ao desenvolver o componente 'TabelaView' em Vue.js, utilizei o método listar para obter a lista de arquivos e formatei os metadados, como tamanho e data de modificação, para proporcionar uma apresentação mais legível e compreensível ao usuário.
+
+A implementação dos métodos específicos, como formatarData para lidar com datas e converterSize para ajustar os tamanhos dos arquivos para megabytes, foi essencial para uma apresentação mais amigável das informações.
+
+ <details>
+
+<summary>Código em Vue.js - Tabela</summary>
+ 
+ ```javascript
+ 
+     <script>
+    import DataTable from 'primevue/datatable';
+    import Column from 'primevue/column';
+    import ListagemArquivos from '../services/listagemArquivos';
+    import Cabecalho from '../components/Cabecalho.vue';
+    export default {
+      name: 'TabelaView',
+      
+      components: {
+        DataTable,
+        Column,
+        Cabecalho,
+      },
+      data() {
+        return {
+          dados: [],
+          buscar_nome: "",
+        };
+      },
+  
+      mounted() {
+        this.listar();
+        this.formatacaoDados();
+      },
+      
+      methods: {
+        listar() {
+          ListagemArquivos.listar().then((resposta) => {
+            this.dados = resposta.data.files;
+            resposta.data.files.forEach(item => {
+              item.size = this.converterSize(item.size);
+            });
+          });
+        },
+
+        formatacaoDados() {
+          this.converterTamanhoArquivos();
+          this.converterData();
+        },
+
+        converterData() {
+          this.dados.forEach(item => {
+            item.LastModified = this.formatarData(item.LastModified);
+          });
+        },
+
+        formatarData(data) {
+          const date = new Date(data);
+          const dia = date.getDate().toString().padStart(2, '0');
+          const mes = (date.getMonth() + 1).toString().padStart(2, '0');
+          const ano = date.getFullYear();
+          return `${dia}/${mes}/${ano}`;
+        },
+
+        converterSize(size) {
+          const sizeAtual = (size/1000);
+          const sizeFinal = sizeAtual + "MB"
+          return sizeFinal;
+        },
+
+        converterTamanhoArquivos() {
+          this.dados.forEach(item => {
+            item.size = this.converterSize(item.size);
+          });
+        },
+
+        filtro() {
+          this.novosDados = this.dados.filter(item => item.name.toLowerCase().includes(this.buscar_nome.toLowerCase()));
+          this.dados = this.novosDados;
+        },
+
+        limpar() {
+          this.buscar_nome = "";
+          this.listar();
+        },
+      }
+    };
+  </script>
+ 
+ ```
+ 
+ </details> 
+
+Enfrentei desafios ao integrar eficientemente o serviço AWS S3 para a obtenção dos dados. No entanto, a abordagem iterativa de desenvolvimento, testes e ajustes permitiu superar esses desafios com sucesso.
+
+A funcionalidade de busca dinâmica foi implementada por meio do método filtro, garantindo que o usuário pudesse filtrar os arquivos com base no nome em tempo real. A inclusão do método limpar possibilitou reiniciar a busca e exibir todos os arquivos novamente, proporcionando uma experiência intuitiva ao usuário.
+
+  <details>
+     <summary>Clique aqui para visualizar a tela de listagem dos arquivos</summary>
+     <br>
+     <img style="border-radius: 50%; align: center" src="https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/telalistagemarquivos.jpeg" width="1000px;" alt=""/>
+  </details>
+
+Em retrospectiva, a implementação deste componente não apenas atendeu ao requisito funcional de exibir o histórico de transferência de arquivos, mas também ressaltou a importância da abordagem cuidadosa na integração de serviços externos e na apresentação eficiente de dados na interface.
 
   <h3>Atribuições no uso de DevOps</h3>
     <p align="justify" style="font-family:roboto;"> O DevOps representa uma metodologia avançada de desenvolvimento de software que se fundamenta na comunicação eficaz entre desenvolvedores e profissionais de infraestrutura de TI, promovendo uma integração fluida entre os setores de desenvolvimento e operações. Seu principal propósito é acelerar e aprimorar a criação e gestão da infraestrutura de aplicações. Com uma abordagem centrada na cultura, automação e design de plataforma, busca incessantemente agregar valor aos negócios e ampliar a capacidade de resposta às mudanças, garantindo entregas de serviços rápidas e de alta qualidade.
