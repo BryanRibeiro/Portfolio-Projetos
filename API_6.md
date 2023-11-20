@@ -46,8 +46,172 @@ A proposta consiste em uma solução abrangente, que inclui a coleta e o refinam
 
   <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
   
-  <h3> Atribuições como Desenvolvedor</h3>
+  <h3> Atribuições como Desenvolvedor Front-End</h3>
 
+Implementei a configuração inicial do mapa e controles no componente Mapa do projeto. Primeiramente, personalizei o ícone padrão dos marcadores utilizando a biblioteca Leaflet. Isso foi feito através da definição de um novo ícone com uma imagem principal (icon) e uma sombra (iconShadow), sendo aplicado a todos os marcadores no mapa.
+
+ <details>
+
+<summary>Código em React - Configuração do Mapa</summary>
+ 
+ ```jsx
+
+import React, { Component } from "react";
+import { MapContainer, TileLayer } from "react-leaflet";
+import { SelectButton } from 'primereact/selectbutton';
+import { Button } from "primereact/button";
+import { Link } from "react-router-dom";
+import L from "leaflet";
+import { OpenStreetMapProvider, GeoSearchControl } from "leaflet-geosearch";
+import "leaflet/dist/leaflet.css";
+import "leaflet-geosearch/dist/geosearch.css";
+import "leaflet-easyprint";
+import 'primeicons/primeicons.css';
+import icon from 'leaflet/dist/images/marker-icon.png';
+import iconShadow from 'leaflet/dist/images/marker-shadow.png';
+import { Chart } from "primereact/chart";
+
+const DefaultIcon = L.icon({
+  iconUrl: icon,
+  shadowUrl: iconShadow,
+});
+
+L.Marker.prototype.options.icon = DefaultIcon;
+
+const search = new GeoSearchControl({
+  provider: new OpenStreetMapProvider({
+    params: {
+      countrycodes: 'BR',
+    },
+  }),
+  autoComplete: true,
+  style: 'bar',
+  notFoundMessage: 'Endereço não encontrado!',
+  searchLabel: 'Buscar endereço',
+  showMarker: false,
+  showPopup: false,
+  autoClose: true
+});
+
+class Mapa extends Component {
+  constructor(props) {
+    // ... (Código do construtor)
+  }
+
+  componentDidMount() {
+    // ... (Configuração de controles após o componente ser montado)
+  }
+
+  // ... (Métodos adicionais, como handleZoomChange, addCustomZoomResetControl, handleZoomReset, renderizarGlebas, toggleOption, etc.)
+
+  render() {
+    return (
+      <div id="mapa">
+        <MapContainer center={[-21, -49]} zoom={7} style={{ height: "100vh" }} ref={(ref) => (this.leafletMap = ref)}>
+          <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
+          {this.state.plotarGlebas && this.renderizarGlebas()}
+        </MapContainer>
+        <div style={{ position: 'absolute', top: '10px', left: "93%", zIndex: 1000 }}>
+          <Link to="/">
+            <Button label="Sair" icon="pi pi-sign-out" severity="info" aria-label="Sair" />
+          </Link>
+        </div>
+      </div>
+    );
+  }
+}
+
+export default Mapa;
+ 
+ ```
+ 
+ </details> 
+
+Em seguida, configurei a barra de busca (GeoSearchControl) para permitir a busca de endereços no mapa. Utilizei a biblioteca Leaflet-Geosearch, especificando o provedor OpenStreetMap para pesquisa no Brasil (countrycodes: 'BR'). Personalizei o estilo da barra de busca como uma barra (style: 'bar') e configurei mensagens relacionadas à busca, como a mensagem exibida quando nenhum endereço é encontrado (notFoundMessage) e o rótulo da barra (searchLabel).
+
+ <details>
+  
+<summary>Código em React - Impressão do Mapa</summary>
+ 
+ ```jsx
+ 
+const exportPrint = L.easyPrint({
+  title: 'Imprimir Mapa',
+  position: 'topleft',
+  sizeModes: ['A4Landscape'],
+  filename: 'mapa',
+  exportOnly: true,
+  hideControlContainer: true,
+});
+
+class Mapa extends Component {
+
+  componentDidMount() {
+    setTimeout(() => {
+      this.leafletMap.addControl(search);
+      this.leafletMap.addControl(exportPrint);  // Adição do controle de impressão ao mapa
+      this.addCustomZoomResetControl();
+      this.leafletMap.on('zoom', this.handleZoomChange);
+      this.leafletMap.on('moveend', this.handleZoomChange);
+    }, 100);
+  }
+
+  render() {
+    return (
+      <div id="mapa">
+        <MapContainer center={[-21, -49]} zoom={7} style={{ height: "100vh" }} ref={(ref) => (this.leafletMap = ref)}>
+          <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
+          {this.state.plotarGlebas && this.renderizarGlebas()}
+        </MapContainer>
+        <div style={{ position: 'absolute', top: '10px', left: "93%", zIndex: 1000 }}>
+          <Link to="/">
+            <Button label="Sair" icon="pi pi-sign-out" severity="info" aria-label="Sair" />
+          </Link>
+        </div>
+      </div>
+    );
+  }
+}
+
+export default Mapa;
+ 
+ ```
+ 
+ </details> 
+
+Além disso, integrei a funcionalidade de impressão do mapa (easyPrint) para permitir que os usuários imprimam o mapa de forma fácil e personalizada. Defini o título, posição e opções de exportação da impressão, como modos de tamanho de página e ocultação do contêiner de controle.
+
+No componente Mapa, no método componentDidMount, adicionei os controles de busca e impressão ao mapa, bem como um controle personalizado para resetar o zoom. Também registrei manipuladores de eventos para detectar mudanças no zoom e movimentação do mapa, desencadeando a exibição das glebas quando o zoom atinge um nível específico.
+
+ <details>
+
+<summary>Código em React - Método Render</summary>
+ 
+ ```jsx
+
+render() {
+  return (
+    <div id="mapa">
+      <MapContainer center={[-21, -49]} zoom={7} style={{ height: "100vh" }} ref={(ref) => (this.leafletMap = ref)}>
+        <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
+        {this.state.plotarGlebas && this.renderizarGlebas()}
+      </MapContainer>
+      <div style={{ position: 'absolute', top: '10px', left: "93%", zIndex: 1000 }}>
+        <Link to="/">
+          <Button label="Sair" icon="pi pi-sign-out" severity="info" aria-label="Sair" />
+        </Link>
+      </div>
+    </div>
+  );
+}
+ 
+ ```
+ 
+ </details> 
+
+No método render, configurei a estrutura do mapa usando o componente MapContainer fornecido pelo React-Leaflet, adicionando uma camada de azulejos do OpenStreetMap. A renderização das glebas é condicional, ocorrendo apenas quando a variável de estado plotarGlebas é verdadeira. Adicionalmente, incluí um botão de saída no canto superior direito, permitindo ao usuário retornar à página principal.
+
+Essas implementações visam criar uma experiência de usuário interativa e informativa ao explorar o mapa de glebas do ProAgro.
   
   <h3> Atribuições como Product Owner</h3>
   <p align="justify" style="font-family:roboto;"> Como Product Owner, assumi a responsabilidade de liderar a definição e priorização do backlog de produto, assegurando que as metas estivessem alinhadas com os objetivos estabelecidos. Colaborei estreitamente com as partes interessadas para compreender suas necessidades, traduzindo-as em requisitos claros e priorizados.
