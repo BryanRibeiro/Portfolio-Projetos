@@ -228,7 +228,15 @@ Durante o ciclo de desenvolvimento, mantive uma comunicação contínua com a eq
  
 <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>  
 
-(texto)
+Durante a execução do projeto, enfrentei desafios significativos que contribuíram para meu aprendizado e crescimento profissional. Lidar com a falta de organização e a presença de informações sensíveis nos dados públicos do ProAgro exigiu habilidades avançadas de manipulação e refinamento de dados.
+
+Ao reestruturar a base de dados de forma eficiente, pude aprimorar minhas habilidades em modelagem e organização de informações geográficas. A criação de um Sistema de Informação Geográfica (SIG) personalizado demandou compreensão aprofundada de tecnologias específicas e a capacidade de integrar dados de maneira coesa.
+
+Além disso, destaco a importância de simplificar e organizar as informações para facilitar a compreensão e análise dos dados pelos usuários. Essa abordagem visou melhorar a usabilidade do sistema, proporcionando uma experiência mais intuitiva e eficiente.
+
+Participar ativamente da organização do banco de dados público do ProAgro permitiu-me desenvolver estratégias para consultas e análises rápidas no contexto do SIG. Essa experiência não apenas aprimorou minhas habilidades técnicas, mas também me proporcionou uma compreensão mais profunda dos desafios enfrentados ao lidar com dados governamentais sensíveis.
+
+No geral, o projeto me proporcionou uma oportunidade valiosa de aplicar meus conhecimentos em um contexto prático, contribuindo para o desenvolvimento de soluções eficientes e impactantes.
 
   <h3 align="center"> Hard Skills </h3>
   <table align="center">
