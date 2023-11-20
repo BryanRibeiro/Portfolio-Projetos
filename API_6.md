@@ -50,17 +50,17 @@ A proposta consiste em uma solução abrangente, que inclui a coleta e o refinam
 
   
   <h3> Atribuições como Product Owner</h3>
-  <p align="justify" style="font-family:roboto;"> Como Product Owner nesse projeto, minha principal responsabilidade foi alinhar o backlog de produto, as tarefas do time de desenvolvimento e garantir que todas as etapas do projeto estivessem em conformidade com os objetivos definidos. Trabalhei em estreita colaboração com as partes interessadas para entender suas necessidades e traduzi-las em requisitos claros e priorizados.
- 
-Para começar, realizei uma análise abrangente dos desafios enfrentados pela empresa em relação à sincronização dos dados administrativos, financeiros e operacionais. Com base nessa análise, elaborei o backlog de produto, identificando as funcionalidades e melhorias necessárias para resolver o problema central. Priorizei as histórias de usuário de acordo com o valor agregado e o impacto nos indicadores comerciais e financeiros.
+  <p align="justify" style="font-family:roboto;"> Como Product Owner, assumi a responsabilidade de liderar a definição e priorização do backlog de produto, assegurando que as metas estivessem alinhadas com os objetivos estabelecidos. Colaborei estreitamente com as partes interessadas para compreender suas necessidades, traduzindo-as em requisitos claros e priorizados.
+
+Conduzi uma análise detalhada dos desafios relacionados à organização dos dados provenientes do ProAgro, destacando a falta de estrutura e a sobrecarga de informações. Com base nessa análise, elaborei o backlog de produto, identificando funcionalidades cruciais para superar os obstáculos identificados. Priorizei as histórias de usuário considerando o valor agregado e o impacto nos resultados do projeto.
 
  <details>
-      <summary>Sprint Backlog</summary>
-<h1 align="center"> <img src = "https://github.com/Doc-Docker/APISubiter/blob/main/docs/Imagens/Backlog_Sprints3.PNG" /></h1>
+      <summary>Clique aqui para visualizar os Backlogs</summary>
+<h1 align="center"> <img src = "https://github.com/TechVisionn/tech-parent/blob/main/docs/Images/English%20Backlog.png" /></h1>
  
  </details> 
  
-Durante o desenvolvimento, mantive uma comunicação constante com o time de desenvolvimento, esclarecendo dúvidas, fornecendo orientações e garantindo que todos estivessem alinhados com os objetivos do projeto. Realizei reuniões de planejamento de sprint para revisar e refinar o backlog, além de definir as metas para cada interação, em colaboração com a equipe de desenvolvimento para dividir as histórias de usuário em tarefas específicas e acionáveis. Isso permitiu que o time trabalhasse de forma mais eficiente, com um fluxo contínuo de trabalho e uma melhor compreensão das expectativas e prazos.</p>
+Durante o ciclo de desenvolvimento, mantive uma comunicação contínua com a equipe, esclarecendo dúvidas, fornecendo direcionamentos e garantindo a conformidade com os objetivos do projeto. Facilitei reuniões de planejamento de sprint para revisão e refinamento do backlog, colaborando na definição de metas para cada iteração. A abordagem permitiu uma execução mais eficiente, com um fluxo de trabalho contínuo e uma compreensão aprimorada das expectativas e prazos por parte da equipe de desenvolvimento.</p>
  
 <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>  
 
