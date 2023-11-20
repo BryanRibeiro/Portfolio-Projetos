@@ -51,6 +51,120 @@
   
   <h3> Atribuições como Desenvolvedor</h3>
 
+  <h3>Atribuições no uso de DevOps</h3>
+    <p align="justify" style="font-family:roboto;"> O DevOps representa uma metodologia avançada de desenvolvimento de software que se fundamenta na comunicação eficaz entre desenvolvedores e profissionais de infraestrutura de TI, promovendo uma integração fluida entre os setores de desenvolvimento e operações. Seu principal propósito é acelerar e aprimorar a criação e gestão da infraestrutura de aplicações. Com uma abordagem centrada na cultura, automação e design de plataforma, busca incessantemente agregar valor aos negócios e ampliar a capacidade de resposta às mudanças, garantindo entregas de serviços rápidas e de alta qualidade.
+
+Na prática, o DevOps engloba todo o ciclo de vida do software, desde o planejamento até a implementação, passando pela automação e prestação de serviços. Dessa forma, abarca integralmente cada etapa, contribuindo de maneira decisiva para alcançar o resultado final desejado.</p>
+  <details>
+     <summary>Clique aqui para visualizar os processos do DevOps</summary>
+     <br>
+     <img style="border-radius: 50%; align: center" src="https://github.com/BryanRibeiro/Portfolio-Projetos/blob/main/images/dev.png" width="400px;" alt=""/>
+  </details>
+  
+ <p align="justify" style="font-family:roboto;"> A primeira prática no projeto foi a aplicação do Git Workflow. Abaixo, uma recomendação de como usar o Git e organizar suas branches para realizar um trabalho de maneira consistente e produtiva. A estrutura das branches para versionamento de código foi dividida da seguinte maneira:</p>
+  <ul>
+  <li> <p align="justify" style="font-family:roboto;">main - Concentra o código de produção, só pondendo ter mudanças por pull requests (permissão para alteração) da branch develop.</p>
+  </li>
+    
+  <li> <p align="justify" style="font-family:roboto;">develop - Branch destinada para testes de funcionalidades e da ferramenta como um todo, só pode ter mudanças por meio de pull requests (permissão para alteração) das branches features.</p>
+  </li>
+    
+  <li> <p align="justify" style="font-family:roboto;">features - Branches com objetivo de desenvolvimentos das funcionalidades do software.</p>
+  </li>
+  </ul>
+
+### 🐳 Deploy no Docker
+
+O Deploy é a prática de disponibilizar a aplicação para uso, seja em um ambiente de desenvolvimento, teste ou produção. O Docker é uma ferramenta que, por meio do uso de containers, facilita o deploy de uma aplicação. Com ela, é possível criar imagens que contêm tudo o que é necessário para o funcionamento da aplicação, como dependências e bibliotecas. Utilizar o Docker é uma maneira de fazer o deploy de uma aplicação em um servidor.
+
+<details>
+É uma ferramenta docker, usada para construir e configurar vários contêineres Docker simultaneamente. Você pode iniciar todos os seus serviços através de um arquivo de configuração (docker-compose.yml) com apenas um comando. Pode ser usado em todos os ambientes: produção, teste e desenvolvimento.
+<br> <br>
+<summary>Docker Compose</summary>
+
+```java
+version: "3"
+
+services:
+  backend-app:
+    container_name: midall-backend-app
+    image: midall-backend-app
+    build:
+      context: ../
+      dockerfile: ./docker/flask.dockerfile
+    restart: always
+    ports:
+      - "5000:5000"
+    volumes:
+      - ${FLASKR_BACK_DEV_DIR}:/flaskr
+    env_file:
+      - .env
+
+networks:
+  network:
+    driver: bridge
+    external: false
+    name: midall-network
+
+```
+FLASKR_BACK_DEV_DIR é uma variável de ambiente definida no arquivo `.env`. Essa variável é o caminho onde está o volume da aplicação.
+
+```java
+FLASKR_BACK_DEV_DIR = project volume path
+```
+
+</details>
+
+
+<details>
+É um arquivo de configuração, como docker-compose.yml, usado para dar instruções durante a criação de containers. Podemos usá-lo para baixar arquivos, instalar pacotes e executar comandos shell.
+<br> <br>
+<summary>DockerFile</summary>
+
+```java
+FROM python:3.10.6-slim-buster
+
+WORKDIR /flaskr/
+
+COPY ./requirements.txt /flaskr/
+
+WORKDIR /flaskr/
+
+RUN pip install -r requirements.txt
+
+CMD ["python", "-m", "flask", "run"]
+
+```
+
+</details>
+
+
+<details>
+É um arquivo que serve para excluir diretórios ou arquivos desnecessários no contexto de construção.
+<br> <br>
+<summary>DockerIgnore</summary>
+
+```java
+tests
+.vscode
+.coveragerc
+.pytest.ini
+*.iml
+**/__pycache__
+**/migrations/*
+*.md
+.git
+.gitignore
+!README*.md
+README-secret.md
+
+```
+
+</details>
+
+Neste projeto fizemos a documentação de cada item DevOps implementado. O link abaixo fornece uma descrição detalhada de cada item, explicando nosso fluxo de trabalho, metodologias utilizadas, ferramentas, tecnologias escolhidas e muito mais.
+
+🔗 [Link da Documentação do DevOps no Wiki](https://github.com/TechNinjass/midall-parent/wiki)
   
   <h3> Atribuições como Product Owner</h3>
   <p align="justify" style="font-family:roboto;"> Como Product Owner nesse projeto desafiador, meu papel centralizou-se na orquestração do backlog de produto e na coordenação das tarefas do time de desenvolvimento, garantindo a conformidade com os objetivos estabelecidos. Trabalhei em estreita colaboração com as partes interessadas para compreender suas necessidades, enfrentando o desafio de traduzir essas demandas complexas em requisitos claros e priorizados.
