@@ -288,7 +288,11 @@ Tive que esclarecer dúvidas, fornecer orientações precisas e assegurar que to
  
 <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>  
 
-(texto)
+Durante a implementação do projeto, adquiri aprendizados significativos que contribuíram para o meu desenvolvimento como desenvolvedor. A criação do componente 'TabelaView' para listar arquivos com histórico de transferência para o Amazon S3 proporcionou valiosas lições.
+
+Ao adotar a abordagem DevOps, compreendi como a comunicação eficiente entre equipes pode acelerar o ciclo de desenvolvimento, otimizar a criação e gerenciamento da infraestrutura de aplicações, e promover entregas mais rápidas e de alta qualidade. Esse aprendizado não apenas aprimorou minha compreensão dos processos de desenvolvimento ágil, mas também enfatizou a importância da cultura, automação e design de plataforma no contexto do DevOps.
+
+A introdução e aplicação do Docker no projeto foram fundamentais para facilitar o deployment da aplicação. Utilizando containers, pude criar imagens contendo todos os elementos necessários para o funcionamento da aplicação, simplificando o processo de transferência e garantindo consistência nos ambientes de desenvolvimento, teste e produção. Isso aprofundou meu conhecimento em virtualização e orquestração de contêineres, permitindo uma gestão eficiente da infraestrutura da aplicação.
 
   <h3 align="center"> Hard Skills </h3>
   <table align="center">
