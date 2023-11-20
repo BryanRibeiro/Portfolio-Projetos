@@ -53,17 +53,17 @@
 
   
   <h3> Atribuições como Product Owner</h3>
-  <p align="justify" style="font-family:roboto;"> Como Product Owner nesse projeto, minha principal responsabilidade foi alinhar o backlog de produto, as tarefas do time de desenvolvimento e garantir que todas as etapas do projeto estivessem em conformidade com os objetivos definidos. Trabalhei em estreita colaboração com as partes interessadas para entender suas necessidades e traduzi-las em requisitos claros e priorizados.
- 
-Para começar, realizei uma análise abrangente dos desafios enfrentados pela empresa em relação à sincronização dos dados administrativos, financeiros e operacionais. Com base nessa análise, elaborei o backlog de produto, identificando as funcionalidades e melhorias necessárias para resolver o problema central. Priorizei as histórias de usuário de acordo com o valor agregado e o impacto nos indicadores comerciais e financeiros.
+  <p align="justify" style="font-family:roboto;"> Como Product Owner nesse projeto desafiador, meu papel centralizou-se na orquestração do backlog de produto e na coordenação das tarefas do time de desenvolvimento, garantindo a conformidade com os objetivos estabelecidos. Trabalhei em estreita colaboração com as partes interessadas para compreender suas necessidades, enfrentando o desafio de traduzir essas demandas complexas em requisitos claros e priorizados.
+
+O primeiro desafio enfrentado foi a compreensão abrangente dos requisitos de automação do processo de download, transferência e alertas em caso de falhas. Este processo demandou uma análise detalhada para identificar as funcionalidades cruciais e melhorias necessárias para superar os desafios do projeto. A organização e priorização das histórias de usuário foram realizadas considerando o valor agregado e o impacto nos resultados finais.
 
  <details>
-      <summary>Sprint Backlog</summary>
-<h1 align="center"> <img src = "https://github.com/Doc-Docker/APISubiter/blob/main/docs/Imagens/Backlog_Sprints3.PNG" /></h1>
+      <summary>Backlogs, Epics & User Stories</summary>
+<h1 align="center"> <img src = "https://github.com/TechNinjass/midall-parent/blob/main/docs/Images/documenta%C3%A7%C3%B5es-po.png" /></h1>
  
  </details> 
  
-Durante o desenvolvimento, mantive uma comunicação constante com o time de desenvolvimento, esclarecendo dúvidas, fornecendo orientações e garantindo que todos estivessem alinhados com os objetivos do projeto. Realizei reuniões de planejamento de sprint para revisar e refinar o backlog, além de definir as metas para cada interação, em colaboração com a equipe de desenvolvimento para dividir as histórias de usuário em tarefas específicas e acionáveis. Isso permitiu que o time trabalhasse de forma mais eficiente, com um fluxo contínuo de trabalho e uma melhor compreensão das expectativas e prazos.</p>
+Tive que esclarecer dúvidas, fornecer orientações precisas e assegurar que todos estivessem alinhados com os objetivos do projeto foram elementos críticos. Conduzi reuniões de planejamento de sprint para revisão e refinamento do backlog, definindo metas para cada iteração. Colaborei ativamente com a equipe para segmentar as histórias de usuário em tarefas específicas e acionáveis, promovendo eficiência e compreensão clara das expectativas e prazos.</p>
  
 <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>  
 
