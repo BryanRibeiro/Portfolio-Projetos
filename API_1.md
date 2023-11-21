@@ -30,11 +30,11 @@ Uma das principais características do site foi a facilidade de navegação e bu
 <br>
  
   <ul>
-  <li><a href="https://www.mysql.com/">MySQL</a>: MySQL é um sistema de gerenciamento de banco de dados (SGBD) relacional, ou seja, que utiliza a linguagem SQL como interface. Lançado sobre a licença GPL, possui como desenvolvedor a Oracle Corporation.</p></li>
+  <li><a href="https://www.mysql.com/">MySQL</a>: É um sistema de gerenciamento de banco de dados (SGBD) relacional, ou seja, que utiliza a linguagem SQL como interface. Lançado sobre a licença GPL, possui como desenvolvedor a Oracle Corporation.</p></li>
   </li>	  
   <li><a href="https://html.spec.whatwg.org/multipage/">HTML</a>: É uma linguagem de marcação utilizada para estruturar e organizar o conteúdo das páginas da web. Com suas tags e elementos, permite a criação de textos, imagens, links e formulários, fornecendo a base fundamental para a construção de sites. É complementado por outras tecnologias como CSS e JavaScript para estilização e interatividade.</p></li>
   </li>
-   <li><a href="https://www.w3.org/Style/CSS/Overview.en.html">CSS</a>: CSS é uma linguagem de estilo utilizada para definir a apresentação e o layout visual das páginas da web.</p></li>
+   <li><a href="https://www.w3.org/Style/CSS/Overview.en.html">CSS</a>: É uma linguagem de estilo utilizada para definir a apresentação e o layout visual das páginas da web.</p></li>
   </li>
    <li><a href="https://www.php.net/">PHP</a>: É uma linguagem de programação server-side amplamente utilizada para desenvolvimento web. Com sua sintaxe simples e poderosa, permite a criação de sites dinâmicos, interativos e conectados a bancos de dados, possibilitando a construção de aplicativos web robustos.</p></li>
   </li>
@@ -50,7 +50,7 @@ Uma das principais características do site foi a facilidade de navegação e bu
   <h3> Atribuições como Desenvolvedor Back-end e Front-end</h3>
   <p align="justify" style="font-family:roboto;"> Como desenvolvedor nesse projeto, minhas atribuições foram essenciais para a implementação das interfaces do usuário e para garantir uma experiência de usuário fluida e amigável.
 
-Minha contribuição utilizando PHP permitiu a implementação da funcionalidade de autenticação de usuários, a persistência de dados por meio de variáveis de sessão e o reaproveitamento de código com a inclusão de arquivos PHP. Essas contribuições foram essenciais para o bom funcionamento e segurança do sistema de login do cliente no projeto.
+Minha contribuição, utilizando PHP, permitiu a implementação da funcionalidade de autenticação de usuários, a persistência de dados por meio de variáveis de sessão e o reaproveitamento de código com a inclusão de arquivos PHP. Essas contribuições foram essenciais para o bom funcionamento e segurança do sistema de login do cliente no projeto.
 
 <details>
 	
@@ -153,7 +153,7 @@ document.getElementById("loginForm").addEventListener("submit", function(event) 
 </details>  
  
 Criação e Estilização de Interfaces:
-Desenvolvi as interfaces do usuário utilizando HTML, CSS e Bootstrap, seguindo as diretrizes de design fornecidas pelo Figma como referência.
+desenvolvi as interfaces do usuário utilizando HTML, CSS e Bootstrap, seguindo as diretrizes de design fornecidas pelo Figma como referência.
 Ajudei a criar um layout responsivo que se adaptasse a diferentes dispositivos e tamanhos de tela. Isso permitiu que os usuários acessassem o site de qualquer dispositivo, como computadores, tablets e smartphones, proporcionando uma experiência consistente.
 Ao utilizar o Bootstrap, aproveitei os componentes e classes pré-definidos para criar rapidamente interfaces consistentes, economizando tempo e esforço.
 
