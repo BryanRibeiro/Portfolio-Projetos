@@ -27,17 +27,17 @@
 <br>
  
   <ul>
-  <li><a href="https://www.oracle.com/br/cloud/">Oracle Cloud</a>: A Oracle Cloud é uma plataforma de nuvem que oferece serviços abrangentes de armazenamento, computação e aplicativos, além de ser altamente escalável e segura.</p></li>
+  <li><a href="https://www.oracle.com/br/cloud/">Oracle Cloud</a>: É uma plataforma de nuvem que oferece serviços abrangentes de armazenamento, computação e aplicativos, além de ser altamente escalável e segura.</p></li>
   </li>	  
-  <li><a href="https://www.java.com/pt-BR/">Java</a>: Java é uma linguagem de programação de alto nível, multiplataforma e orientada a objetos, conhecida por sua portabilidade e segurança, amplamente usada no desenvolvimento de aplicativos e sistemas corporativos.</p></li>
+  <li><a href="https://www.java.com/pt-BR/">Java</a>: É uma linguagem de programação de alto nível, multiplataforma e orientada a objetos, conhecida por sua portabilidade e segurança, amplamente usada no desenvolvimento de aplicativos e sistemas corporativos.</p></li>
   </li>
-   <li><a href="https://vuejs.org/">Vue.js</a>: O Vue.js é um framework JavaScript progressivo e de código aberto para construção de interfaces de usuário interativas e dinâmicas. Ele oferece uma abordagem simples e flexível para o desenvolvimento de aplicações web modernas.</p></li>
+   <li><a href="https://vuejs.org/">Vue.js</a>: É um framework JavaScript progressivo e de código aberto para construção de interfaces de usuário interativas e dinâmicas. Ele oferece uma abordagem simples e flexível para o desenvolvimento de aplicações web modernas.</p></li>
   </li>
-   <li><a href="https://www.docker.com/">Docker</a>: O Docker é uma plataforma de virtualização leve e portátil que permite empacotar, distribuir e executar aplicativos de forma isolada, garantindo a portabilidade e consistência do ambiente de desenvolvimento e produção.</p></li>
+   <li><a href="https://www.docker.com/">Docker</a>: É uma plataforma de virtualização leve e portátil que permite empacotar, distribuir e executar aplicativos de forma isolada, garantindo a portabilidade e consistência do ambiente de desenvolvimento e produção.</p></li>
   </li>
-   <li><a href="https://getbootstrap.com/">Bootstrap</a>: Bootstrap é um framework front-end de código aberto que facilita o desenvolvimento de interfaces responsivas e estilizadas, fornecendo um conjunto de estilos predefinidos e componentes reutilizáveis, agilizando o processo de criação de páginas web modernas e atraentes.</p></li>
+   <li><a href="https://getbootstrap.com/">Bootstrap</a>: É um framework front-end de código aberto que facilita o desenvolvimento de interfaces responsivas e estilizadas, fornecendo um conjunto de estilos predefinidos e componentes reutilizáveis, agilizando o processo de criação de páginas web modernas e atraentes.</p></li>
   </li>
-  <li><a href="https://www.jetbrains.com/idea/">IntelliJ IDEA</a>: O IntelliJ IDEA é um ambiente de desenvolvimento integrado (IDE) altamente produtivo para programação em diversas linguagens.</p></li>
+  <li><a href="https://www.jetbrains.com/idea/">IntelliJ IDEA</a>: É um ambiente de desenvolvimento integrado (IDE) altamente produtivo para programação em diversas linguagens.</p></li>
   </li>
 
   </ul>
@@ -48,7 +48,7 @@
 
 ### ☁️ Oracle Cloud
 
-Tive um papel fundamental na criação da modelagem do banco de dados no Oracle Cloud, ajustando as tabelas conforme a necessidade do cliente. Ajustamos as tabelas conforme as necessidades do cliente, realizando modificações e refinamentos na estrutura do banco de dados. Isso envolveu a adição de novas colunas, a definição de índices para otimização de consultas e a criação de visões personalizadas para facilitar a interpretação dos dados pelos usuários.
+Tive um papel fundamental na criação da modelagem do banco de dados no Oracle Cloud, ajustando as tabelas conforme a necessidade do cliente. Ajustei as tabelas conforme as necessidades do cliente, realizando modificações e refinamentos na estrutura do banco de dados. Isso envolveu a adição de novas colunas, a definição de índices para otimização de consultas e a criação de visões personalizadas para facilitar a interpretação dos dados pelos usuários.
 
 <details>
       <summary>Modelo Lógico</summary>
