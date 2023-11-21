@@ -27,17 +27,17 @@
 <br>
  
   <ul>
-  <li><a href="https://www.mysql.com/">PostgreSQL</a>: O PostgreSQL é um sistema de gerenciamento de banco de dados relacional de código aberto, conhecido por sua robustez, confiabilidade e suporte avançado a recursos como transações ACID, replicação e escalabilidade horizontal.</p></li>
+  <li><a href="https://www.mysql.com/">PostgreSQL</a>: É um sistema de gerenciamento de banco de dados relacional de código aberto, conhecido por sua robustez, confiabilidade e suporte avançado a recursos como transações ACID, replicação e escalabilidade horizontal.</p></li>
   </li>	  
-  <li><a href="https://www.python.org/">Python</a>: Python é uma linguagem de programação de alto nível, interpretada e de propósito geral, conhecida por sua simplicidade, legibilidade e ampla aplicabilidade em diferentes domínios, desde desenvolvimento web até análise de dados.</p></li>
+  <li><a href="https://www.python.org/">Python</a>: É uma linguagem de programação de alto nível, interpretada e de propósito geral, conhecida por sua simplicidade, legibilidade e ampla aplicabilidade em diferentes domínios, desde desenvolvimento web até análise de dados.</p></li>
   </li>
    <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">JavaScript</a>: É uma linguagem de programação versátil e poderosa, utilizada para adicionar interatividade, funcionalidades dinâmicas e comportamentos aos sites.</p></li>
   </li>
   <li><a href="https://html.spec.whatwg.org/multipage/">HTML</a>: É uma linguagem de marcação utilizada para estruturar e organizar o conteúdo das páginas da web. Com suas tags e elementos, permite a criação de textos, imagens, links e formulários, fornecendo a base fundamental para a construção de sites. É complementado por outras tecnologias como CSS e JavaScript para estilização e interatividade.</p></li>
   </li>
-   <li><a href="https://www.w3.org/Style/CSS/Overview.en.html">CSS</a>: CSS é uma linguagem de estilo utilizada para definir a apresentação e o layout visual das páginas da web.</p></li>
+   <li><a href="https://www.w3.org/Style/CSS/Overview.en.html">CSS</a>: É uma linguagem de estilo utilizada para definir a apresentação e o layout visual das páginas da web.</p></li>
   </li>
-  <li><a href="https://trello.com/https://trello.com">Visual Studio Code</a>: O "VS Code" é um editor de código-fonte leve e altamente personalizável, desenvolvido pela Microsoft, com suporte a várias linguagens de programação e uma ampla gama de extensões que aumentam sua funcionalidade.</p></li>
+  <li><a href="https://trello.com/https://trello.com">Visual Studio Code</a>: É um editor de código-fonte leve e altamente personalizável, desenvolvido pela Microsoft, com suporte a várias linguagens de programação e uma ampla gama de extensões que aumentam sua funcionalidade.</p></li>
   </li>
 
   </ul>
@@ -46,7 +46,7 @@
   
   <h3> Atribuições como Desenvolvedor Front-end</h3>
  
- Na parte das tasks do projeto do Dashboard, como desenvolvedor front-end, eu contribuí não apenas com o código CSS, mas também com o desenvolvimento das tasks em geral, utilizando JavaScript e integrando-o ao HTML e CSS. Implementei funcionalidades interativas nas tasks, como adicionar, editar, excluir e marcar como concluídas. Eu trabalhei com o JavaScript, manipulando os elementos da página e respondendo aos eventos do usuário, como cliques em botões ou submissões de formulários.
+ Na parte das tasks do projeto do Dashboard, como desenvolvedor front-end, eu contribuí não apenas com o código CSS, mas também com o desenvolvimento das tasks em geral, utilizando JavaScript e integrando-o ao HTML e CSS. Implementei funcionalidades interativas nas tasks, como adicionar, editar, excluir e marcar como concluídas. Trabalhei com o JavaScript, manipulando os elementos da página e respondendo aos eventos do usuário, como cliques em botões ou submissões de formulários.
  
  <details>
 	
