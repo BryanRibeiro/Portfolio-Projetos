@@ -29,17 +29,17 @@ A proposta consiste em uma solução abrangente, que inclui a coleta e o refinam
 <br>
  
   <ul>
-  <li><a href="https://www.mysql.com/">MySQL</a>: MySQL é um sistema de gerenciamento de banco de dados (SGBD) relacional, ou seja, que utiliza a linguagem SQL como interface. Lançado sobre a licença GPL, possui como desenvolvedor a Oracle Corporation.</p></li>
+  <li><a href="https://www.mysql.com/">MySQL</a>: É um sistema de gerenciamento de banco de dados (SGBD) relacional, ou seja, que utiliza a linguagem SQL como interface. Lançado sobre a licença GPL, possui como desenvolvedor a Oracle Corporation.</p></li>
   </li>	  
-  <li><a href="https://www.mongodb.com/pt-br">MongoDB</a>: MongoDB é um banco de dados NoSQL que armazena dados em documentos flexíveis usando um formato JSON. Ele oferece escalabilidade e flexibilidade para lidar com grandes volumes de dados e modelos de dados dinâmicos.</p></li>
+  <li><a href="https://www.mongodb.com/pt-br">MongoDB</a>: É um banco de dados NoSQL que armazena dados em documentos flexíveis usando um formato JSON. Ele oferece escalabilidade e flexibilidade para lidar com grandes volumes de dados e modelos de dados dinâmicos.</p></li>
   </li>
-  <li><a href="https://www.python.org/">Python</a>: Python é uma linguagem de programação de alto nível, interpretada e de propósito geral, conhecida por sua simplicidade, legibilidade e ampla aplicabilidade em diferentes domínios, desde desenvolvimento web até análise de dados.</p></li>
+  <li><a href="https://www.python.org/">Python</a>: É uma linguagem de programação de alto nível, interpretada e de propósito geral, conhecida por sua simplicidade, legibilidade e ampla aplicabilidade em diferentes domínios, desde desenvolvimento web até análise de dados.</p></li>
   </li>
   <li><a href="https://react.dev/">React</a>: É uma biblioteca JavaScript para construir interfaces de usuário interativas e reativas. Desenvolvida pelo Facebook, permite a criação de componentes reutilizáveis para construir aplicativos web eficientes.</p></li>
   </li>
-   <li><a href="https://www.docker.com/">Docker</a>: O Docker é uma plataforma de virtualização leve e portátil que permite empacotar, distribuir e executar aplicativos de forma isolada, garantindo a portabilidade e consistência do ambiente de desenvolvimento e produção.</p></li>
+   <li><a href="https://www.docker.com/">Docker</a>: É uma plataforma de virtualização leve e portátil que permite empacotar, distribuir e executar aplicativos de forma isolada, garantindo a portabilidade e consistência do ambiente de desenvolvimento e produção.</p></li>
   </li>
-  <li><a href="https://github.com/">GIT</a>: Figma é uma ferramenta de design colaborativo baseada na nuvem, que permite criar interfaces de usuário, protótipos interativos e compartilhar facilmente os designs com equipes de trabalho, agilizando o processo de design e feedback em projetos de design de produtos e interfaces digitais.</p></li>
+  <li><a href="https://github.com/">GIT</a>: É uma ferramenta de design colaborativo baseada na nuvem, que permite criar interfaces de usuário, protótipos interativos e compartilhar facilmente os designs com equipes de trabalho, agilizando o processo de design e feedback em projetos de design de produtos e interfaces digitais.</p></li>
   </li>
 
   </ul>
