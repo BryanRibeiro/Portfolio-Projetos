@@ -7,7 +7,7 @@
  
  <h2> Parceiro Acadêmico: <a href="https://visionaespacial.com/">Visiona Espacial</a></h2>
  
-<img src="https://github.com/TechVisionn/tech-parent/blob/main/docs/Images/Logo_Visiona.png" height="130" width="300"/>
+<img src="https://github.com/TechVisionn/tech-parent/blob/main/docs/Images/Logo_Visiona.png" height="130" width="370"/>
 
   <h2 style="font-family:roboto;"> Resumo do Projeto :clipboard:</h2>
   
