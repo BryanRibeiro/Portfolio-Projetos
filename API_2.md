@@ -282,7 +282,7 @@ Além disso, trabalhar com diferentes fontes de dados foi um desafio enriquecedo
     <tr>
       <th width="270px">Tecnologia/Metodologia</th>
       <th width="85px">Nota</th>
-      <th width="200px">Classificação</th>
+      <th width="230px">Classificação</th>
     </tr>
     <tr>
       <td>Metodologia Scrum - Scrum Master</td>
