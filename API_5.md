@@ -34,7 +34,7 @@
   </li>	  
   <li><a href="https://www.python.org/">Python</a>: É uma linguagem de programação de alto nível, interpretada e de propósito geral, conhecida por sua simplicidade, legibilidade e ampla aplicabilidade em diferentes domínios, desde desenvolvimento web até análise de dados.</p></li>
   </li>
-   <li><a href="https://vuejs.org/">Vue.js</a>: É um framework JavaScript progressivo e de código aberto para construção de interfaces de usuário interativas e dinâmicas. Ele oferece uma abordagem simples e flexível para o desenvolvimento de aplicações web modernas.</p></li>
+   <li><a href="https://vuejs.org/">Vue.js</a>: É um framework JavaScript progressivo e de código aberto para construção de interfaces de usuário interativas e dinâmicas. Oferece uma abordagem simples e flexível para o desenvolvimento de aplicações web modernas.</p></li>
   </li>
   <li><a href="https://html.spec.whatwg.org/multipage/">HTML</a>: É uma linguagem de marcação utilizada para estruturar e organizar o conteúdo das páginas da web. Com suas tags e elementos, permite a criação de textos, imagens, links e formulários, fornecendo a base fundamental para a construção de sites. É complementado por outras tecnologias como CSS e JavaScript para estilização e interatividade.</p></li>
   </li>
@@ -182,7 +182,7 @@ Na prática, o DevOps engloba todo o ciclo de vida do software, desde o planejam
 
 ### 🐳 Deploy no Docker
 
-O Deploy é a prática de disponibilizar a aplicação para uso, seja em um ambiente de desenvolvimento, teste ou produção. O Docker é uma ferramenta que, por meio do uso de containers, facilita o deploy de uma aplicação. Com ela, é possível criar imagens que contêm tudo o que é necessário para o funcionamento da aplicação, como dependências e bibliotecas. Utilizar o Docker é uma maneira de fazer o deploy de uma aplicação em um servidor.
+O Deploy é a prática de disponibilizar a aplicação para uso, seja em um ambiente de desenvolvimento, teste ou produção. O Docker é uma ferramenta que, por meio do uso de containers, facilita o deploy de uma aplicação. Com essa ferramenta, é possível criar imagens que contêm tudo o que é necessário para o funcionamento da aplicação, como dependências e bibliotecas. Utilizar o Docker é uma maneira de fazer o deploy de uma aplicação em um servidor.
 
 <details>
 É uma ferramenta docker, usada para construir e configurar vários contêineres Docker simultaneamente. Você pode iniciar todos os seus serviços através de um arquivo de configuração (docker-compose.yml) com apenas um comando. Pode ser usado em todos os ambientes: produção, teste e desenvolvimento.
