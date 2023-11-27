@@ -180,9 +180,9 @@ Possuíamos uma base de dados minimamente volumosa, e precisávamos calcular div
   <h3 align="center"> Hard Skills </h3>
   <table align="center">
     <tr>
-      <th width="300px">Tecnologia/Metodologia</th>
-      <th width="300px">Classificação</th>
-      <th width="300px">Escala de Aprendizado</th>
+      <th width="270px">Tecnologia/Metodologia</th>
+      <th width="85px">Nota</th>
+      <th width="230px">Classificação</th>
     </tr>
     <tr>
       <td>Metodologia Ágil Scrum</td>
@@ -224,8 +224,8 @@ Possuíamos uma base de dados minimamente volumosa, e precisávamos calcular div
   <h3 align="center">Soft Skills</h3>
   <table align="center">
     <tr>
-      <th width="300px">Habilidade</th>
-      <th width="300px">Descrição</th>
+      <th width="270px">Habilidade</th>
+      <th width="290px">Descrição</th>
     </tr>
 <tr>
   <td>Tecnologias Emergentes</td>
