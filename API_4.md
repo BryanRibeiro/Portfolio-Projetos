@@ -107,9 +107,9 @@ Além disso, o projeto me ensinou a importância da organização e centralizaç
   <h3 align="center"> Hard Skills </h3>
   <table align="center">
     <tr>
-      <th width="300px">Tecnologia/Metodologia</th>
-      <th width="300px">Classificação</th>
-      <th width="300px">Escala de Aprendizado</th>
+      <th width="270px">Tecnologia/Metodologia</th>
+      <th width="85px">Nota</th>
+      <th width="240px">Classificação</th>
     </tr>
     <tr>
       <td>Metodologia Scrum - Product Owner</td>
@@ -151,8 +151,8 @@ Além disso, o projeto me ensinou a importância da organização e centralizaç
   <h3 align="center">Soft Skills</h3>
   <table align="center">
     <tr>
-      <th width="300px">Habilidade</th>
-      <th width="300px">Descrição</th>
+      <th width="270px">Habilidade</th>
+      <th width="290px">Descrição</th>
     </tr>
     <tr>
       <td>Responsabilidade</td>
