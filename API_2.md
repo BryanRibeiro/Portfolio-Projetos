@@ -280,7 +280,7 @@ Além disso, trabalhar com diferentes fontes de dados foi um desafio enriquecedo
   <h3 align="center"> Hard Skills </h3>
   <table align="center">
     <tr>
-      <th width="270px">Tecnologia/Metodologia</th>
+      <th width="280px">Tecnologia/Metodologia</th>
       <th width="85px">Nota</th>
       <th width="240px">Classificação</th>
     </tr>
