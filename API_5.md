@@ -182,7 +182,7 @@ Na prática, o DevOps engloba todo o ciclo de vida do software, desde o planejam
 
 ### 🐳 Deploy no Docker
 
-O Deploy é a prática de disponibilizar a aplicação para uso, seja em um ambiente de desenvolvimento, teste ou produção. O Docker é uma ferramenta que, por meio do uso de containers, facilita o deploy de uma aplicação. Com essa ferramenta, é possível criar imagens que contêm tudo o que é necessário para o funcionamento da aplicação, como dependências e bibliotecas. Utilizar o Docker é uma maneira de fazer o deploy de uma aplicação em um servidor.
+O Deploy é a prática de disponibilizar a aplicação para uso, seja em um ambiente de desenvolvimento, teste ou produção. O Docker é uma ferramenta que, por meio do uso de containers, facilita o deploy de uma aplicação. Com essa ferramenta, é possível criar imagens que contêm tudo o que é necessário para o funcionamento da aplicação, como dependências e bibliotecas. O uso do Docker permite fazer o deploy de uma aplicação em um servidor.
 
 <details>
 É uma ferramenta docker, usada para construir e configurar vários contêineres Docker simultaneamente. Você pode iniciar todos os seus serviços através de um arquivo de configuração (docker-compose.yml) com apenas um comando. Pode ser usado em todos os ambientes: produção, teste e desenvolvimento.
@@ -269,7 +269,7 @@ README-secret.md
 
 </details>
 
-Neste projeto fizemos a documentação de cada item DevOps implementado. O link abaixo fornece uma descrição detalhada de cada item, explicando nosso fluxo de trabalho, metodologias utilizadas, ferramentas, tecnologias escolhidas e muito mais.
+Neste projeto fez-se a documentação de cada item DevOps implementado. O link abaixo fornece uma descrição detalhada de cada item, explicando nosso fluxo de trabalho, metodologias utilizadas, ferramentas, tecnologias escolhidas e muito mais.
 
 🔗 [Link da Documentação do DevOps no Wiki](https://github.com/TechNinjass/midall-parent/wiki)
   
