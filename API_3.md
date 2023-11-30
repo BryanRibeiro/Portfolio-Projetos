@@ -27,7 +27,7 @@
 <br>
  
   <ul>
-  <li><a href="https://azure.microsoft.com/">Microsoft SQL Server</a>: É um sistema de gerenciamento de banco de dados relacional desenvolvido pela Microsoft, amplamente utilizado para armazenar, manipular e recuperar dados de forma eficiente e segura.</p></li>
+  <li><a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads">Microsoft SQL Server</a>: É um sistema de gerenciamento de banco de dados relacional desenvolvido pela Microsoft, amplamente utilizado para armazenar, manipular e recuperar dados de forma eficiente e segura.</p></li>
   </li>	  
   <li><a href="https://www.java.com/pt-BR/">Java</a>: É uma linguagem de programação de alto nível, multiplataforma e orientada a objetos, conhecida por sua portabilidade e segurança, amplamente usada no desenvolvimento de aplicativos e sistemas corporativos.</p></li>
   </li>
