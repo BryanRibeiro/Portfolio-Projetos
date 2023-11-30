@@ -30,7 +30,7 @@
 <br>
  
   <ul>
-  <li><a href="https://azure.microsoft.com/">Microsoft SQL Server</a>: É um sistema de gerenciamento de banco de dados relacional desenvolvido pela Microsoft, amplamente utilizado para armazenar, manipular e recuperar dados de forma eficiente e segura.</p></li>
+  <li><a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads">Microsoft SQL Server</a>: É um sistema de gerenciamento de banco de dados relacional desenvolvido pela Microsoft, amplamente utilizado para armazenar, manipular e recuperar dados de forma eficiente e segura.</p></li>
   </li>	  
   <li><a href="https://www.python.org/">Python</a>: É uma linguagem de programação de alto nível, interpretada e de propósito geral, conhecida por sua simplicidade, legibilidade e ampla aplicabilidade em diferentes domínios, desde desenvolvimento web até análise de dados.</p></li>
   </li>
