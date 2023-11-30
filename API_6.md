@@ -262,8 +262,8 @@ No geral, o projeto me proporcionou uma oportunidade valiosa de aplicar meus con
     </tr>
     <tr>
       <td>Python</td>
-      <td>★★★★☆</td>
-      <td>Sei fazer com ajuda</td>
+      <td>★★★★★</td>
+      <td>Sei fazer com autonomia</td>
     </tr>
    <tr>
       <td>React</td>
