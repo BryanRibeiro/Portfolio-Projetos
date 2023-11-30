@@ -27,7 +27,7 @@
 <br>
  
   <ul>
-  <li><a href="https://www.mysql.com/">PostgreSQL</a>: É um sistema de gerenciamento de banco de dados relacional de código aberto, conhecido por sua robustez, confiabilidade e suporte avançado a recursos como transações ACID, replicação e escalabilidade horizontal.</p></li>
+  <li><a href="https://www.postgresql.org/">PostgreSQL</a>: É um sistema de gerenciamento de banco de dados relacional de código aberto, conhecido por sua robustez, confiabilidade e suporte avançado a recursos como transações ACID, replicação e escalabilidade horizontal.</p></li>
   </li>	  
   <li><a href="https://www.python.org/">Python</a>: É uma linguagem de programação de alto nível, interpretada e de propósito geral, conhecida por sua simplicidade, legibilidade e ampla aplicabilidade em diferentes domínios, desde desenvolvimento web até análise de dados.</p></li>
   </li>
