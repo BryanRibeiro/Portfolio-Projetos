@@ -27,6 +27,7 @@
   <ul>
     <li><code>Java</code> na criação de API's (Application Programming Interface) Rest utilizando o Framework <code>SpringBoot</code>;</li>
     <li><code>Python</code> para automação de processos e manipulação de documentos;</li>
+    <li><code>React</code> no desenvolvimento de interfaces interativas utilizando bibliotecas como <code>Leaflet</code> para mapeamento;</li>
     <li><code>SQL</code> para modelagem, criação e manipulação de Banco de Dados <code>Oracle</code>, <code>MySQL</code> e <code>SQL Server</code>.</li>
     </ul></li>
   <br>
