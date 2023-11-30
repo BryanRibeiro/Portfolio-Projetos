@@ -2,7 +2,7 @@
 <body>
   
  <h1 align="center"> Portfólio API's Banco de Dados - Bryan Romero Ribeiro</h1>  
-  <h4 align="justify" style="font-family:roboto;"> Trabalho de graduação na modalidade Portfólio dos projetos realizados com a metodologia ágil Scrum com a Aprendizagem por Projetos Integrados (API), necessário como parte dos requisitos para obtenção do título de Tecnólogo em Banco de Dados pela Faculdade de Tecnologia de São José dos Campos.</h4>
+  <h4 align="justify" style="font-family:roboto;"> Trabalho de graduação na modalidade Portfólio dos projetos realizados utilizando a metodologia ágil Scrum e a Aprendizagem por Projetos Integrados (API), necessário como parte dos requisitos para obtenção do título de Tecnólogo em Banco de Dados pela Faculdade de Tecnologia de São José dos Campos.</h4>
   
   <h2> Autor :necktie: </h2>
   
