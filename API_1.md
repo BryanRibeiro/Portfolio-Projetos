@@ -40,7 +40,7 @@ Uma das principais características do site foi a facilidade de navegação e bu
   </li>
    <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">JavaScript</a>: É uma linguagem de programação versátil e poderosa, utilizada para adicionar interatividade, funcionalidades dinâmicas e comportamentos aos sites.</p></li>
   </li>
-  <li><a href="https://trello.com/https://trello.com">Trello</a>: É uma ferramenta de gerenciamento de projetos baseada em quadros virtuais que permite organizar tarefas e colaborar em equipes de forma visual e intuitiva.</p></li>
+  <li><a href="https://trello.com/">Trello</a>: É uma ferramenta de gerenciamento de projetos baseada em quadros virtuais que permite organizar tarefas e colaborar em equipes de forma visual e intuitiva.</p></li>
   </li>
 
   </ul>
