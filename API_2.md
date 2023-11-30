@@ -37,7 +37,7 @@
   </li>
    <li><a href="https://www.w3.org/Style/CSS/Overview.en.html">CSS</a>: É uma linguagem de estilo utilizada para definir a apresentação e o layout visual das páginas da web.</p></li>
   </li>
-  <li><a href="https://trello.com/https://trello.com">Visual Studio Code</a>: É um editor de código-fonte leve e altamente personalizável, desenvolvido pela Microsoft, com suporte a várias linguagens de programação e uma ampla gama de extensões que aumentam sua funcionalidade.</p></li>
+  <li><a href="https://code.visualstudio.com/">Visual Studio Code</a>: É um editor de código-fonte leve e altamente personalizável, desenvolvido pela Microsoft, com suporte a várias linguagens de programação e uma ampla gama de extensões que aumentam sua funcionalidade.</p></li>
   </li>
 
   </ul>
